@@ -1,0 +1,44 @@
+name: Proposal Peer Feedback
+description: Provide feedback on a peer's project proposal and connect it to a specific issue.
+title: "[Peer Feedback] <Project Name or Student Name>"
+labels: ["peer feedback", "proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Peer Feedback on Proposal
+
+  - type: input
+    id: issue_id
+    attributes:
+      label: Related Proposal Issue ID
+      description: Enter the issue number of the proposal you're providing feedback on (e.g., #5).
+      placeholder: #<issue_number>
+
+  - type: textarea
+    id: strengths
+    attributes:
+      label: Strengths
+      description: What aspects of the proposal are strong or well thought-out?
+      placeholder: Identify and describe the strengths of this proposal.
+
+  - type: textarea
+    id: improvement_areas
+    attributes:
+      label: Areas for Improvement
+      description: What areas of the proposal could be improved or clarified?
+      placeholder: Suggest specific improvements or points for clarification.
+
+  - type: textarea
+    id: questions
+    attributes:
+      label: Questions
+      description: What questions do you have about this proposal?
+      placeholder: List any questions or areas that require further information.
+
+  - type: textarea
+    id: general_feedback
+    attributes:
+      label: General Feedback
+      description: Any additional thoughts or general feedback about the proposal?
+      placeholder: Provide any additional feedback here.

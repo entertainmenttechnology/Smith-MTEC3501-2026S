@@ -1,0 +1,70 @@
+name: "Proposal Feedback Session"
+description: "Provide structured feedback on a classmate's speculative detailed proposal."
+title: "Feedback on [Proposal]: <Project Name>"
+labels: [feedback, student-review]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 📝 **Proposal Feedback Session**
+        Provide structured feedback on a classmate's proposal using a brainstorming technique.
+        - Choose a technique from the list below and apply it in your feedback.
+        - Be constructive and help refine the proposal with thoughtful insights.
+
+        **Brainstorming Techniques:**
+        - 🔹 **Yes, And…** – Extend and build upon the idea.
+        - 🔹 **What If…** – Speculate about new possibilities.
+        - 🔹 **Kill the Idea** – Challenge an assumption to strengthen the concept.
+        - 🔹 **Forced Juxtaposition** – Introduce an unrelated concept for inspiration.
+        - 🔹 **Reverse the Perspective** – Approach the idea from a new angle.
+
+  - type: input
+    id: proposal_name
+    attributes:
+      label: "📌 Proposal Name"
+      description: "Enter the project name from the original issue."
+      placeholder: "Enter project name here"
+    validations:
+      required: true
+
+  - type: input
+    id: reviewer_name
+    attributes:
+      label: "👤 Your Name"
+      description: "Enter your name to track feedback participation."
+      placeholder: "Your full name"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: brainstorming_technique
+    attributes:
+      label: "🧠 Selected Brainstorming Technique"
+      description: "Select one technique to frame your feedback."
+      options:
+        - "Yes, And..."
+        - "What If..."
+        - "Kill the Idea"
+        - "Forced Juxtaposition"
+        - "Reverse the Perspective"
+    validations:
+      required: true
+
+  - type: textarea
+    id: feedback_comment
+    attributes:
+      label: "✍️ Feedback Comment"
+      description: "Provide your feedback using the selected technique."
+      placeholder: "Write your structured feedback here..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_suggestions
+    attributes:
+      label: "💡 Additional Thoughts or Suggestions"
+      description: "Optionally, provide any extra insights, ideas, or references."
+      placeholder: "Share additional feedback, questions, or suggestions."
+    validations:
+      required: false

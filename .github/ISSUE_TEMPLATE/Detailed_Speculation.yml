@@ -1,0 +1,133 @@
+name: Speculative Detailed Proposal
+description: Submit your speculative detailed proposal for review and tracking.
+title: "[Proposal]: <Project Name>"
+labels: ["proposal", "student-submission"]
+assignees:
+  - <your-github-username>
+
+body:
+  - type: input
+    id: project_name
+    attributes:
+      label: "Project Name"
+      description: "Provide the working title of your project."
+      placeholder: "Enter project name here"
+
+  - type: textarea
+    id: one_sentence_summary
+    attributes:
+      label: "One-Sentence Summary"
+      description: "Provide a concise description of your project."
+      placeholder: "Example: An interactive AI-driven installation exploring real-time generative art."
+
+  - type: textarea
+    id: core_concept
+    attributes:
+      label: "Core Concept"
+      description: "Describe what your project is trying to achieve."
+      placeholder: "Provide details on the main idea and purpose."
+
+  - type: textarea
+    id: user_experience
+    attributes:
+      label: "User Experience"
+      description: "How would users interact with your project?"
+      placeholder: "Explain the experience from an audience or user perspective."
+
+  - type: textarea
+    id: climax_version
+    attributes:
+      label: "Climax Version (Fully Realized Vision)"
+      description: "Describe what your project would be in its most complete form."
+      placeholder: "If time and resources were unlimited, what would this become?"
+
+  - type: textarea
+    id: least_viable_product
+    attributes:
+      label: "Least Viable Product (Most likely to be presented at end of ENT4501)"
+      description: "Describe what your project will do for the culmination project."
+      placeholder: "Based on an additional semester of time and resources, what can I accomplish?"
+
+  - type: textarea
+    id: technology_systems
+    attributes:
+      label: "Technology & Systems"
+      description: "Outline the tools, platforms, or AI/machine learning systems involved."
+      placeholder: "List software, hardware, and technical requirements."
+
+  - type: textarea
+    id: creative_components
+    attributes:
+      label: "Creative Components"
+      description: "Explain the artistic, narrative, or interactive elements of the project."
+      placeholder: "Describe the artistic vision, storytelling, or interactivity."
+
+  - type: textarea
+    id: expected_impact
+    attributes:
+      label: "Expected Impact"
+      description: "What does this project accomplish? Who is it for?"
+      placeholder: "Describe the intended audience and outcomes."
+
+  - type: textarea
+    id: prototype_version
+    attributes:
+      label: "Prototype Plan (To be presented at end of this semester)"
+      description: "Describe what the prototype will be and what core features it will demonstrate."
+      placeholder: "Define a simple, testable interaction or function."
+
+  - type: textarea
+    id: what_it_can_do
+    attributes:
+      label: "What It Can Do"
+      description: "List the minimal features needed to demonstrate the core idea."
+      placeholder: "Basic functionalities expected in the prototype."
+
+  - type: textarea
+    id: what_it_wont_do
+    attributes:
+      label: "What It Won’t Do (Yet)"
+      description: "List the features or components that will be omitted for now."
+      placeholder: "Define any features planned for later phases."
+
+  - type: textarea
+    id: scalability_plan
+    attributes:
+      label: "Scalability Plan"
+      description: "If this works, what are the logical next steps?"
+      placeholder: "Describe how the project can grow beyond the prototype."
+
+  - type: textarea
+    id: research_influences
+    attributes:
+      label: "Research & Influences"
+      description: "List relevant projects, inspirations, and technologies."
+      placeholder: "Provide citations and references (use Zotero where applicable)."
+
+  - type: textarea
+    id: learning_areas
+    attributes:
+      label: "What You Need to Learn"
+      description: "Identify areas where additional research is required."
+      placeholder: "What concepts, tools, or technologies need further study?"
+
+  - type: textarea
+    id: self_reflection
+    attributes:
+      label: "Self-Reflection & Open Questions"
+      description: "What are your strengths and weaknesses in this project?"
+      placeholder: "What parts of your idea do you feel confident about? What assumptions are you making?"
+
+  - type: textarea
+    id: ai_usage
+    attributes:
+      label: "AI Usage Report"
+      description: "Describe any AI tools used in research, design, or planning."
+      placeholder: "List any AI-based tools you experimented with and how they contributed."
+
+  - type: textarea
+    id: feedback_needed
+    attributes:
+      label: "Feedback & Questions for Reviewers"
+      description: "List specific areas where you need feedback."
+      placeholder: "What aspects of your project are you unsure about?"

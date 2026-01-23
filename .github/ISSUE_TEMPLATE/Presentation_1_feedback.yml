@@ -1,0 +1,83 @@
+name: "MTEC 3501 Project Proposal Feedback"
+description: "Provide feedback on students' conceptual project proposals based on their presentation, PowerPoint, and written proposal."
+title: "Feedback for [Student's Name] - [Project Name]"
+labels: ["proposal-feedback", "Spring 2025"]
+assignees: []
+
+body:
+  - type: input
+    id: panelist_name
+    attributes:
+      label: "What is your name?"
+      description: "Enter your full name."
+      placeholder: "John Doe"
+    validations:
+      required: true
+
+  - type: input
+    id: panelist_email
+    attributes:
+      label: "What is your email address?"
+      description: "Students may contact you at this email with questions about your feedback."
+      placeholder: "you@example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: student_name
+    attributes:
+      label: "What is the student's name?"
+      description: "Enter the student's full name."
+      placeholder: "Jane Smith"
+    validations:
+      required: true
+
+  - type: input
+    id: project_name
+    attributes:
+      label: "What is the student's project?"
+      description: "Enter the name or brief description of the project."
+      placeholder: "AI-Enhanced Music Composition"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "### Presentation Feedback  
+      Provide feedback on the student's **10-minute presentation, PowerPoint slides, and written proposal document**."
+
+  - type: textarea
+    id: strong_points
+    attributes:
+      label: "Which parts of the presentation felt particularly strong, effectively communicating the proposal ideas?"
+      description: "Mention aspects that were clear, engaging, or well-prepared."
+      placeholder: "E.g., The problem statement was very clear, and the use of visuals enhanced the explanation."
+    validations:
+      required: false
+
+  - type: textarea
+    id: unclear_areas
+    attributes:
+      label: "Which parts of the presentation felt confusing or less than clear?"
+      description: "Identify areas where the student could improve clarity or provide more information."
+      placeholder: "E.g., The technical implementation details were vague—consider breaking down the process more clearly."
+    validations:
+      required: false
+
+  - type: textarea
+    id: lingering_questions
+    attributes:
+      label: "What lingering questions do you currently have about the presenter's project proposal?"
+      description: "List any key questions that remain unanswered after the presentation."
+      placeholder: "E.g., How will user feedback be incorporated into the development process?"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_comments
+    attributes:
+      label: "Any other comments that you think could be helpful for the presenter?"
+      description: "General feedback, observations, or constructive advice."
+      placeholder: "E.g., The proposal is promising, but consider refining the timeline to ensure feasibility."
+    validations:
+      required: false

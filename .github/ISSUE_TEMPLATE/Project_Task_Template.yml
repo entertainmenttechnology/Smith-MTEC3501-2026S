@@ -1,0 +1,60 @@
+name: Project Task
+description: Create a new task for your project following the 5-stage process.
+title: "[TASK] "
+labels: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: "## 🎯 Task Overview"
+  
+  - type: input
+    id: task_name
+    attributes:
+      label: "Task Name"
+      description: "Provide a short title for this task."
+    validations:
+      required: true
+
+  - type: textarea
+    id: task_description
+    attributes:
+      label: "📄 Description"
+      description: "Provide a detailed description of the task, including objectives, deliverables, and any key details."
+      placeholder: "Example: Research historical puppet design techniques and document findings."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: task_stage
+    attributes:
+      label: "🛠 Assigned Stage"
+      description: "Which development stage does this task belong to?"
+      options:
+        - Research 📖
+        - Design 🎨
+        - Produce 🛠️
+        - Publish 🚀
+        - Assess 📊
+    validations:
+      required: true
+
+  - type: input
+    id: due_date
+    attributes:
+      label: "📅 Expected Completion Date"
+      description: "Enter the target completion date in YYYY-MM-DD format."
+
+  - type: input
+    id: repo_link
+    attributes:
+      label: "🔗 Repository Link (if applicable)"
+      description: "Provide the URL if this task involves a repository."
+      placeholder: "https://github.com/your-repo"
+
+  - type: textarea
+    id: ai_usage
+    attributes:
+      label: "🤖 AI Collaboration Report"
+      description: "Describe how AI was used for this task (if applicable). Include tools, effectiveness, and human-AI balance."
+      placeholder: "Example: Used ChatGPT for research insights and GitHub Copilot for code suggestions."

@@ -1,0 +1,58 @@
+name: 📌 Task Tracking
+description: Create a new task for your project and link it to a milestone.
+title: "[Task]: "
+labels: ["task", "student-project"]
+assignees: 
+  - student-name
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📌 Task Tracking
+        Use this issue to document and track a specific task within your project.
+
+  - type: input
+    id: task_title
+    attributes:
+      label: 🎯 Task Title
+      description: Provide a short, clear title for this task.
+      placeholder: "E.g., Research historical references for the project"
+    validations:
+      required: true
+
+  - type: textarea
+    id: task_description
+    attributes:
+      label: 📄 Task Description
+      description: Describe the task in detail, including what needs to be done and expected outcomes.
+      placeholder: "Provide detailed steps, context, and any links to relevant materials."
+    validations:
+      required: true
+
+  - type: textarea
+    id: task_dependencies
+    attributes:
+      label: 🔗 Dependencies (if any)
+      description: Are there any tasks or resources that must be completed before this one?  You can link to an existing issue
+      placeholder: "E.g., This task depends on completing initial research."
+    validations:
+      required: false
+
+  - type: textarea
+    id: completion_criteria
+    attributes:
+      label: ✅ Completion Criteria
+      description: Define what success looks like for this task.
+      placeholder: "E.g., Research document uploaded, GitHub repo updated, prototype tested."
+    validations:
+      required: true
+
+  - type: textarea
+    id: progress_updates
+    attributes:
+      label: 📌 Progress Updates
+      description: Use this section to add updates as you work on the task.
+      placeholder: "E.g., Initial research completed, prototype draft started."
+    validations:
+      required: false
