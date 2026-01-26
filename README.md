@@ -24,42 +24,10 @@ For beginner-friendly onboarding (GitHub Desktop, Zotero connector, etc.) see th
 
 ## Getting Started (accounts & tools)
 
-Before you begin coursework, set up these accounts and tools:
+Setup and onboarding steps (GitHub account, GitHub Desktop, VS Code, Zotero, etc.) are documented in the course Quick Start and Week 1 onboarding:
 
-- Create a GitHub account: https://github.com/join (use your real name or institutional account)
-- Create a Zotero account: https://www.zotero.org/user/register
-- Install GitHub Desktop: https://desktop.github.com/ (available for macOS, Windows)
-- Install the Zotero Connector for your browser: https://www.zotero.org/download/
-
-Using GitHub Desktop (recommended for beginners):
-
-1. Sign into GitHub Desktop with your GitHub account.
-2. Fork this repository on GitHub (click "Fork").
-3. In GitHub Desktop choose "File → Clone repository", select your fork, and clone it locally.
-4. Create a new branch for your work: Branch → New branch → name it `student-LastName-FirstName`.
-5. Make changes locally (add files, update your `projects/YourName/` folder), Commit to the branch with a clear message, and Push to origin.
-6. Open a Pull Request from your branch to the central repo via GitHub.com (GitHub Desktop shows a button to "Create Pull Request").
-
-If you prefer the command line, the equivalent steps are:
-
-```bash
-# fork on GitHub, then clone your fork (replace your-username)
-git clone git@github.com:your-username/Smith-MTEC3501-2026S.git
-cd Smith-MTEC3501-2026S
-git checkout -b student-LastName-FirstName
-# make changes, then:
-git add .
-git commit -m "Add project folder and initial deliverables"
-git push -u origin student-LastName-FirstName
-```
-
-Zotero setup notes:
-
-- Install the Zotero desktop app (optional but useful for full library features).
-- Install the Zotero Connector in your browser to save references directly from webpages.
-- Create a course collection for `MTEC 3501` and share export instructions if you are collaborating on literature reviews.
-
-If you need help with any of these steps, contact the instructor or ask for a short walkthrough session.
+- [documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md)
+- [documents-Class/assignments/Week1_Onboarding.md](documents-Class/assignments/Week1_Onboarding.md)
 
 ---
 
@@ -80,41 +48,10 @@ Useful links:
 
 ## Weekly Update
 
-This section will be updated weekly with the active assignment and deliverables.
+Weekly assignments and deliverables live in the `documents-Class/assignments/` folder. For Week 1 onboarding and initial deliverables, see:
 
-**This Week (Week 1): Course Introduction & Onboarding**
-
-- Course overview and introductions
-- First writing: "What is your idea?" (1–2 paragraph first draft)
-- Goals: design a culmination project; learn professional tools & practices; collaborate effectively; communicate across modalities; develop situational awareness
-- Class philosophy: Think boldly — push envelopes and contextualize ideas within larger environments
-- Iterative R&D: discuss engineering development examples (slow/awkward/expensive → fast/elegant/inexpensive/robust)
-- Six Stages of Project Development (SRDPMA) — model is iterative, fractal, and a guideline rather than a prescription
-- Introduction to communication tools: combinative reality, medium vs message, systems vs symbols, engineering vs design, balanced blended space, collaborative AI, mediation pathways, holistic integration
-- Speculative ideation: Second writing prompt — the great "What if?"; inspirations and speculative first concept
-- Aspirational climax: Dream big (unlimited budget/time) — what you'd hope to show by the end of the second semester (functioning prototype)
-
-Key ideation questions:
-
-- What do I think I need?
-- What do I think I know?
-- What do I think I don’t know?
-
-Setup tasks (complete this week):
-
-1. Sign up for a GitHub account (https://github.com/join)
-2. Install GitHub Desktop (optional but recommended) and/or Visual Studio Code
-3. Sign up for Zotero and install the Zotero Connector for your browser
-4. Ensure you have access to the class repository (faculty will confirm next week)
-5. Identify your familiarity with AI tools and whether you plan to involve AI in your project (fill out the AI use form linked in the Week 1 assignment)
-
-- See onboarding doc: [Week 1 Onboarding](documents-Class/assignments/Week1_Onboarding.md)
-
-Deliverable due this week:
-
-- Submit your first writing (1–2 paragraphs describing your idea) to your `projects/YourName/` folder and link it in the Week 1 assignment issue. See assignments index: [documents-Class/assignments/README.md](documents-Class/assignments/README.md)
-
-- For onboarding details and the GitHub username task, see: [Week 1 Onboarding](documents-Class/assignments/Week1_Onboarding.md)
+- [documents-Class/assignments/Week1_Onboarding.md](documents-Class/assignments/Week1_Onboarding.md)
+- Assignments index: [documents-Class/assignments/README.md](documents-Class/assignments/README.md)
 
 ---
 
