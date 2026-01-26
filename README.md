@@ -8,83 +8,17 @@
 
 Term: Jan–May 2026
 
-**Instructor:** [Name] • **Contact:** [email@citytech.edu] (replace with actual details)
+**Instructor:** [David B Smith] • **Contact:** [dsmith@citytech.cuny.edu](dsmith@citytech.cuny.edu)
 
-Short overview: MTEC 3501 guides students through the research, proposal, and planning stages toward a culminating project and proof-of-concept prototype.
+MTEC 3501 guides students through the research, proposal, and planning stages toward a culminating project and proof-of-concept prototype.
 
 ---
 
 ## Quick Start (students)
 
-Preferred workflow (central repo branches):
+The course Quick Start and Git workflow have moved to: [documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md)
 
-Note: this requires students to have write access to the central class repo. If you will grant students write access, use this workflow so all student work lives in a single repository and each student works on their own branch.
-
-1. Clone the central repository (replace `org-or-instructor` if different):
-
-```bash
-git clone git@github.com:org-or-instructor/Smith-MTEC3501-2026S.git
-cd Smith-MTEC3501-2026S
-```
-
-2. Create a branch on `origin` and push:
-
-```bash
-git checkout -b student-LastName-FirstName
-git push -u origin student-LastName-FirstName
-```
-
-3. Work in `projects/YourName/`, commit regularly, push to your branch, and open a Pull Request on GitHub from `student-LastName-FirstName` to `main` (or the designated integration branch).
-
-Branch naming policy (recommended):
-
-- `student-LastName-FirstName` — personal work
-- `team-ProjectName` — for group projects
-- `fix/short-description` or `feat/short-description` — minor task branches
-
-If you DO NOT have write access (or prefer isolation), use the fork workflow:
-
-1. Fork this repository to your GitHub account (click "Fork" on GitHub).
-2. Clone your fork locally (replace `your-username`):
-
-```bash
-git clone git@github.com:your-username/Smith-MTEC3501-2026S.git
-cd Smith-MTEC3501-2026S
-```
-
-3. Create and push your branch to your fork:
-
-```bash
-git checkout -b student-LastName-FirstName
-git push -u origin student-LastName-FirstName
-```
-
-4. Open a Pull Request from your fork/branch to the central repo.
-
-Keeping your branch/repo up to date (central-branch workflow):
-
-```bash
-# add upstream once (central repo)
-git remote add upstream git@github.com:org-or-instructor/Smith-MTEC3501-2026S.git
-git fetch upstream
-git checkout main
-git merge upstream/main
-git push origin main
-# then rebase or merge main into your branch before opening PR
-git checkout student-LastName-FirstName
-git rebase main
-```
-
-Short PR checklist (add this to PR description):
-
-- Title: concise summary of changes
-- Link to Week/Assignment issue
-- Files changed: `projects/YourName/` path
-- Description: what you added/changed and why
-- AI use: disclose any AI assistance (prompts, tools, edits)
-- Tests/Notes: how to preview or run any demos
-
-Use Issues + Projects to track milestones and deliverables; submit work by opening a PR from your branch (or by attaching deliverables to the assignment issue) unless otherwise directed.
+For beginner-friendly onboarding (GitHub Desktop, Zotero connector, etc.) see the `Getting Started` section below in this README.
 
 ---
 
