@@ -16,7 +16,33 @@ Short overview: MTEC 3501 guides students through the research, proposal, and pl
 
 ## Quick Start (students)
 
-Recommended workflow (fork + clone):
+Preferred workflow (central repo branches):
+
+Note: this requires students to have write access to the central class repo. If you will grant students write access, use this workflow so all student work lives in a single repository and each student works on their own branch.
+
+1. Clone the central repository (replace `org-or-instructor` if different):
+
+```bash
+git clone git@github.com:org-or-instructor/Smith-MTEC3501-2026S.git
+cd Smith-MTEC3501-2026S
+```
+
+2. Create a branch on `origin` and push:
+
+```bash
+git checkout -b student-LastName-FirstName
+git push -u origin student-LastName-FirstName
+```
+
+3. Work in `projects/YourName/`, commit regularly, push to your branch, and open a Pull Request on GitHub from `student-LastName-FirstName` to `main` (or the designated integration branch).
+
+Branch naming policy (recommended):
+
+- `student-LastName-FirstName` — personal work
+- `team-ProjectName` — for group projects
+- `fix/short-description` or `feat/short-description` — minor task branches
+
+If you DO NOT have write access (or prefer isolation), use the fork workflow:
 
 1. Fork this repository to your GitHub account (click "Fork" on GitHub).
 2. Clone your fork locally (replace `your-username`):
@@ -26,18 +52,37 @@ git clone git@github.com:your-username/Smith-MTEC3501-2026S.git
 cd Smith-MTEC3501-2026S
 ```
 
-3. Create a branch named `student-LastName-FirstName` and push it to your fork:
+3. Create and push your branch to your fork:
 
 ```bash
 git checkout -b student-LastName-FirstName
 git push -u origin student-LastName-FirstName
 ```
 
-4. Create or update your project folder under `projects/YourName/`, commit, and push.
+4. Open a Pull Request from your fork/branch to the central repo.
 
-If you have write access to the central class repo (instructor will notify):
+Keeping your branch/repo up to date (central-branch workflow):
 
-- Clone the central repo and create a branch directly on `origin` instead of forking.
+```bash
+# add upstream once (central repo)
+git remote add upstream git@github.com:org-or-instructor/Smith-MTEC3501-2026S.git
+git fetch upstream
+git checkout main
+git merge upstream/main
+git push origin main
+# then rebase or merge main into your branch before opening PR
+git checkout student-LastName-FirstName
+git rebase main
+```
+
+Short PR checklist (add this to PR description):
+
+- Title: concise summary of changes
+- Link to Week/Assignment issue
+- Files changed: `projects/YourName/` path
+- Description: what you added/changed and why
+- AI use: disclose any AI assistance (prompts, tools, edits)
+- Tests/Notes: how to preview or run any demos
 
 Use Issues + Projects to track milestones and deliverables; submit work by opening a PR from your branch (or by attaching deliverables to the assignment issue) unless otherwise directed.
 
@@ -129,9 +174,13 @@ Setup tasks (complete this week):
 4. Ensure you have access to the class repository (faculty will confirm next week)
 5. Identify your familiarity with AI tools and whether you plan to involve AI in your project (fill out the AI use form linked in the Week 1 assignment)
 
+- See onboarding doc: [Week 1 Onboarding](documents-Class/assignments/Week1_Onboarding.md)
+
 Deliverable due this week:
 
 - Submit your first writing (1–2 paragraphs describing your idea) to your `projects/YourName/` folder and link it in the Week 1 assignment issue. See assignments index: [documents-Class/assignments/README.md](documents-Class/assignments/README.md)
+
+- For onboarding details and the GitHub username task, see: [Week 1 Onboarding](documents-Class/assignments/Week1_Onboarding.md)
 
 ---
 
