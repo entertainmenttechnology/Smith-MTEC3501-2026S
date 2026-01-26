@@ -71,3 +71,28 @@ Short PR checklist (add this to PR description):
 - Tests/Notes: how to preview or run any demos
 
 If you prefer GitHub Desktop for onboarding, follow the steps in the course `README.md` under "Getting Started".
+
+---
+
+## Getting Started — Accounts & Tools
+
+Before you begin, create or confirm the following accounts and install the recommended tools. These are the core applications used in this course.
+
+- GitHub account: https://github.com/join (used for repository access, branches, and PRs)
+- Git (command-line) or GitHub Desktop: https://desktop.github.com/ (Desktop recommended for beginners)
+- Visual Studio Code (editor): https://code.visualstudio.com/
+- Zotero account and Zotero Connector: https://www.zotero.org/download/ (Zotero desktop app is optional but recommended for full features)
+- Web browser (Chrome, Firefox, or Safari) with cookie/logins enabled for GitHub and Zotero
+- GitHub Projects / Issues (built into GitHub) — for task tracking
+
+Optional / course-dependent tools (examples):
+
+- Figma or Adobe XD (UI/UX and prototyping)
+- Blender, Unity, or Unreal Engine (3D/interactive prototypes)
+- Python / Node.js runtimes for lightweight prototyping (install as needed per project)
+
+Notes:
+
+- If you are new to Git, GitHub Desktop simplifies cloning, branching, committing, and PR creation. The CLI provides finer control and is recommended for students comfortable with the terminal.
+- Zotero lets you collect citations and export bibliographies for precedent research.
+- We will provide project-specific tooling notes in assignment prompts when needed.
