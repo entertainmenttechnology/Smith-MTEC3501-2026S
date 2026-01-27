@@ -1,6 +1,51 @@
 # Quick Start — Onboarding & Git Workflow
 
-This document contains the recommended onboarding and Git workflow for MTEC 3501 (Spring 2026). It covers the preferred central-repo branch workflow, a fork fallback, branch naming policy, syncing, and a short PR checklist. For beginner-friendly steps (GitHub Desktop), see the `Getting Started` section in the main course README.
+This document lists the core applications used in MTEC 3501 (Spring 2026) and the high-level steps to get each one ready so you can begin work quickly. Use the detailed workflow sections below for branch/PR policy, syncing, and a short PR checklist.
+
+Applications used in this course
+
+- GitHub — repository hosting, Issues, Pull Requests, Projects (required)
+- Git (command-line) or GitHub Desktop — clone, branch, commit, push (one is required; Desktop recommended for beginners)
+- Visual Studio Code — primary code and text editor (recommended)
+- Zotero + Zotero Connector — citation management and research collection
+- Browser (Chrome, Firefox, Safari) — for GitHub, Zotero Connector, and web tools
+- Optional/Project tools: Figma, Adobe XD, Blender, Unity, Unreal Engine, Python/Node.js runtimes — installed per project needs
+
+High-level setup steps
+
+1. Create accounts: GitHub and Zotero. Confirm your GitHub username meets the course spec (Week 1 onboarding doc).
+2. Install tools: GitHub Desktop (or Git), Visual Studio Code, Zotero, and the Zotero browser connector.
+3. Configure Git: set your name and email (`git config --global user.name "Your Name"`; `git config --global user.email you@example.com`) and create SSH keys if you prefer SSH cloning.
+4. Sign into GitHub Desktop (or authenticate Git with your credentials/SSH key).
+5. Confirm access: instructors will grant write access if using the central-branch workflow; otherwise fork the repo and clone your fork.
+6. Create your branch (`student-LastName-FirstName`) and create your `projects/YourName/` folder for deliverables.
+7. Install optional project tools as needed for your specific project; we'll note required tools in assignment prompts.
+
+If you prefer a step-by-step beginner guide (GitHub Desktop flows, Zotero connector install, and CLI equivalents), see the Getting Started section in the course README or continue in this document for the full Git workflow.
+
+## Accounts & Tools
+
+Before you begin, create or confirm the following accounts and install the recommended tools. These are the core applications used in this course.
+
+- GitHub account: https://github.com/join (used for repository access, branches, and PRs)
+- Git (command-line) or GitHub Desktop: https://desktop.github.com/ (Desktop recommended for beginners)
+- Visual Studio Code (editor): https://code.visualstudio.com/
+- Zotero account and Zotero Connector: https://www.zotero.org/download/ (Zotero desktop app is optional but recommended for full features)
+- Web browser (Chrome, Firefox, or Safari) with cookie/logins enabled for GitHub and Zotero
+- GitHub Projects / Issues (built into GitHub) — for task tracking
+
+Optional / course-dependent tools (examples):
+
+- Figma or Adobe XD (UI/UX and prototyping)
+- Blender, Unity, or Unreal Engine (3D/interactive prototypes)
+- Python / Node.js runtimes for lightweight prototyping (install as needed per project)
+
+Notes:
+
+- If you are new to Git, GitHub Desktop simplifies cloning, branching, committing, and PR creation. The CLI provides finer control and is recommended for students comfortable with the terminal.
+- Zotero lets you collect citations and export bibliographies for precedent research.
+- We will provide project-specific tooling notes in assignment prompts when needed.
+
 
 Preferred workflow (central repo branches)
 
@@ -74,25 +119,3 @@ If you prefer GitHub Desktop for onboarding, follow the steps in the course `REA
 
 ---
 
-## Getting Started — Accounts & Tools
-
-Before you begin, create or confirm the following accounts and install the recommended tools. These are the core applications used in this course.
-
-- GitHub account: https://github.com/join (used for repository access, branches, and PRs)
-- Git (command-line) or GitHub Desktop: https://desktop.github.com/ (Desktop recommended for beginners)
-- Visual Studio Code (editor): https://code.visualstudio.com/
-- Zotero account and Zotero Connector: https://www.zotero.org/download/ (Zotero desktop app is optional but recommended for full features)
-- Web browser (Chrome, Firefox, or Safari) with cookie/logins enabled for GitHub and Zotero
-- GitHub Projects / Issues (built into GitHub) — for task tracking
-
-Optional / course-dependent tools (examples):
-
-- Figma or Adobe XD (UI/UX and prototyping)
-- Blender, Unity, or Unreal Engine (3D/interactive prototypes)
-- Python / Node.js runtimes for lightweight prototyping (install as needed per project)
-
-Notes:
-
-- If you are new to Git, GitHub Desktop simplifies cloning, branching, committing, and PR creation. The CLI provides finer control and is recommended for students comfortable with the terminal.
-- Zotero lets you collect citations and export bibliographies for precedent research.
-- We will provide project-specific tooling notes in assignment prompts when needed.
