@@ -18,16 +18,16 @@ MTEC 3501 guides students through the research, proposal, and planning stages to
 
 The course Quick Start and Git workflow have moved to: [documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md)
 
-For beginner-friendly onboarding (GitHub Desktop, Zotero connector, etc.) see the `Getting Started` section below in this README.
+For comprehensive onboarding (GitHub account & Desktop, Zotero Desktop, Discord, Google Drive, VS Code) see the Week 1 onboarding below.
 
 ---
 
 ## Getting Started (accounts & tools)
 
-Setup and onboarding steps (GitHub account, GitHub Desktop, VS Code, Zotero, etc.) are documented in the course Quick Start and Week 1 onboarding:
+All new students must complete **Week 1 Onboarding** before proceeding:
 
-- [documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md)
-- [documents-Class/assignments/Week1_Onboarding.md](documents-Class/assignments/Week1_Onboarding.md)
+- **[assignments/week01/01_Onboarding.md](assignments/week01/01_Onboarding.md)** — Complete platform and application setup (GitHub, Zotero, Discord, Google, VS Code)
+- [documents-Class/01_Introduction/Quick_Start.md](documents-Class/01_Introduction/Quick_Start.md) — Git workflow and repository navigation
 
 ---
 
@@ -48,10 +48,11 @@ Useful links:
 
 ## Weekly Update
 
-Weekly assignments and deliverables live in the `documents-Class/assignments/` folder. For Week 1 onboarding and initial deliverables, see:
+Weekly assignments and deliverables live in the `assignments/` folder. For Week 1, see:
 
-- [documents-Class/assignments/Week1_Onboarding.md](documents-Class/assignments/Week1_Onboarding.md)
-- Assignments index: [documents-Class/assignments/README.md](documents-Class/assignments/README.md)
+- [assignments/week01/README.md](assignments/week01/README.md) — Week 1 overview
+- [assignments/week01/01_Onboarding.md](assignments/week01/01_Onboarding.md) — Comprehensive onboarding guide
+- [assignments/week01/01_Speculative_Reflection_Assignment.md](assignments/week01/01_Speculative_Reflection_Assignment.md) — First reflection assignment
 
 ---
 
