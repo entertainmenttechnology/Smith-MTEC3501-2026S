@@ -4,6 +4,8 @@ Purpose
 -------
 This short onboarding task ensures every student has a GitHub account/username that meets course requirements so we can grant repository access and track work by branch.
 
+First [follow these instructions](https://github.com/CHI-CityTech/CHI-StudentResearch/wiki/CHI%E2%80%90Researcher-Onboarding.md) to get the various User ID's you will need.
+
 Required action (this week)
 ---------------------------
 Create a GitHub account (or confirm your existing account) with a username that meets the course specification below. Submit your GitHub handle by opening a new issue in this repository titled:
