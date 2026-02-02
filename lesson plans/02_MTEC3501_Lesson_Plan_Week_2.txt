@@ -1,0 +1,206 @@
+# Lesson Plan – Week 2: From Personal Speculation to Group Brainstorming & Project Setup
+
+**Course:** Culmination Project Development  
+**Class Session:** #2  
+**Duration:** 2.5 hours  
+
+---
+
+## **Learning Objectives**
+By the end of this class, students will:
+- Understand and apply multiple types of brainstorming techniques.
+- Establish and verify access to all required course systems and platforms.
+- Create and manage personal workspaces in GitHub.
+- Understand the distinct roles of GitHub, Zotero, VS Code, Discord, and Google Drive in the course workflow.
+- Establish a foundation for long-term project development.
+- Transition project ideas from individual speculation to group-based expansion.
+- Experience brainstorming as a social, iterative process.
+- Establish structures for continued speculative brainstorming beyond class.
+
+---
+
+
+## **Agenda Overview**
+| **Time** | **Topic** | **Focus** |
+|---------|-----------|-----------|
+| 0:00 – 0:10 | Welcome & Agenda Overview | Set expectations for the session |
+| 0:10 – 0:30 | Systems & Environment Setup | Verify access to all platforms; clarify tool roles |
+| 0:30 – 0:45 | GitHub Setup | Branching, folder structure, uploading ideas, PR workflow |
+| 0:45 – 1:00 | Brainstorming Techniques Overview | Introduce speculative techniques used in class & on GitHub |
+| 1:00 – 1:45 | Brainstorming Session (Round‑Robin “What If…?”) | 6 students × ~6 minutes each: scope presentation + bold speculative prompts |
+| 1:45 – 2:05 | Transition to GitHub Brainstorming | Explain asynchronous brainstorm using GitHub Issues & Discussions |
+| 2:05 – 2:20 | Vision & Scope Framing | Connect brainstorm outcomes to PoC / functioning prototype / aspirational thinking |
+| 2:20 – 2:30 | Wrap‑up & Next Steps | Reflection + explanation of asynchronous GitHub brainstorming assignment |
+
+
+---
+
+## **0. Systems & Environment Setup (Foundational)**
+
+✅ **Goal:** Ensure all students have access to and understand the role of each required platform.
+
+### **Platforms Introduced:**
+- **GitHub** – Version control, project artifacts, issues, project boards
+- **Zotero** – Reference management for inspirational and precedent research
+- **Visual Studio Code (VS Code)** – Local editing environment (Markdown, code, documentation)
+- **Discord** – Class communication, coordination, quick questions (not submissions)
+- **Google Drive** – Shared working documents (brainstorms, drafts, in-progress writing)
+
+### **Key Distinctions to Emphasize:**
+- Google Docs → thinking in progress
+- GitHub → versioned project artifacts
+- Zotero → sources and references
+- VS Code → local workspace
+- Discord → communication and coordination
+
+Students verify access, installations, and logins. Troubleshooting as needed.
+
+---
+
+## **1. GitHub Personal Project Management Setup**
+✅ **Skills Introduced:** Branching, folder structure, uploading content, using Pull Requests.
+
+### **Activities:**
+- Create a branch: `[your-name]-branch`
+- Create folder: `/projects/[your-name]/`
+- Upload `project_idea.md` (from last week’s speculative assignment)
+- Open a Pull Request (PR) to merge into `main`
+
+---
+
+## **2. Brainstorming Techniques (Conceptual Overview)**
+
+Before beginning the in‑class and GitHub‑based brainstorms, briefly introduce the *types* of brainstorming students will be using. The goal is not mastery, but awareness that brainstorming can take multiple forms.
+
+**Techniques introduced:**
+- **What If…?** – speculative prompts that deliberately stretch an idea beyond its initial assumptions.
+- **Yes, And…** – additive, collaborative expansion that accepts an idea and extends it.
+- **What If NOT…?** – removing or negating a core assumption to expose hidden dependencies.
+- **Forced Juxtaposition** – combining the project with an unrelated domain, constraint, or medium.
+- **Role-Shift Brainstorming** – re-imagining the project from a different stakeholder’s perspective (user, critic, antagonist, system, environment).
+- **Extreme Constraint** – asking how the project changes under severe limits (time, scale, sensory modality, resources).
+- **Critical Stress Testing (“Kill Your Idea”)** – surfacing weaknesses, contradictions, or failure modes early.
+
+Students are encouraged to treat these techniques as *tools*, not rules. They may combine, remix, or invent variations as needed.
+
+**Optional reference for students:**
+- IDEO, *Brainstorming Rules*
+- Stanford d.school, *Design Thinking Bootleg*
+
+---
+
+## **3. Brainstorming Activities (In-Class → GitHub)**
+
+✅ **Skills Introduced:** Multiple brainstorming techniques; transition from live ideation to structured, versioned brainstorming in GitHub.
+
+### **Part 1: In‑Class Brainstorm (Round‑Robin “What If…?”)**
+
+**Format:** Live, synchronous, whole‑class activity (spoken discussion + Google Doc notes)
+
+**Setup:**
+- Each student briefly presents the **current scope of their project idea** (1–2 minutes).
+- Presentations are based on the **speculative writing assignment** completed for Week 1.
+- Students should focus on *what the project is*, *what domain it sits in*, and *what they believe the core idea is right now* — not on polish or feasibility.
+
+**Round‑Robin Brainstorm:**
+After each short presentation, the class engages in a rapid **round‑robin “What if…?” brainstorm** focused on that project.
+
+- Classmates offer speculative prompts starting with **“What if…”**
+- Prompts should intentionally:
+  - stretch or distort the idea
+  - challenge assumptions
+  - introduce unexpected constraints or opportunities
+  - explore alternate audiences, scales, or modalities
+
+**Example (Instructor Model):**
+Using *Speculative ELF* as an example:
+- *What if* the ELF system could only communicate through indirect signals rather than explicit commands?
+- *What if* the ELF misinterpreted intent in productive ways?
+- *What if* the system only existed ephemerally and could not be revisited?
+
+**Student Examples:**
+- What if this project had to function without visuals?
+- What if the primary user was not the intended audience?
+- What if this were scaled down to a single interaction?
+- What if the system behaved unpredictably on purpose?
+
+**Goals:**
+- Expose each project to **multiple external perspectives**
+- Demonstrate brainstorming as a **social and iterative process**
+- Help students see how quickly an idea can expand, shift, or re‑focus
+- Reinforce that early project definitions are **fluid, not fixed**
+
+**Documentation:**
+- Each student records key “What if…” prompts and responses directly in their Google Doc tab under a new heading:
+  - **In‑Class What If Brainstorm – Week 2**
+- No filtering or evaluation is required at this stage; capture ideas as they emerge.
+
+
+---
+
+### **Part 2: GitHub-Based Brainstorming**
+
+**Format:** Asynchronous-friendly, structured brainstorming using GitHub tools.
+
+**Techniques:**
+- **Rapid Ideation** → GitHub Issues
+  - Each student creates an issue capturing one refined or transformed idea from the in-class brainstorm.
+- **"Yes, And…" Expansion** → Comments on Issues
+  - Students comment on at least one peer’s issue, extending or reframing the idea.
+- **Forced Juxtaposition** → GitHub Discussions
+  - Students introduce unexpected elements (themes, technologies, constraints) and explore new connections.
+- **Kill Your Idea Test** → Markdown file + Pull Request
+  - Students intentionally critique their own idea to identify weaknesses and possible pivots.
+- **Mind Map Synthesis** → Miro mind map → GitHub Wiki
+  - Visual integration of insights from all brainstorming activities.
+
+---
+
+
+## **4. Asynchronous Brainstorming (Post‑Class)**
+
+Following the in‑class session, students will continue speculative expansion asynchronously using GitHub.
+
+### **GitHub Discussion Board Setup**
+- A **Discussion Board** will be enabled in the class repository.
+- Each student creates **one discussion thread** titled:
+  - `What If – [Your Name / Project Title]`
+
+### **Student Responsibilities (Over the Next Week):**
+- Post a short description of your current project idea
+- Include 3–5 initial speculative prompts ("What if…") based on in‑class discussion
+- Comment substantively on **every other student’s thread** with:
+  - bold or unexpected ideas
+  - reframings, constraints, or alternate interpretations
+
+**Guidelines:**
+- Be generous, curious, and playful
+- Avoid feasibility filtering at this stage
+- Aim to *expand the possibility space*, not close it
+
+This asynchronous phase allows ideas to mature over time and ensures every project benefits from collective intelligence.
+
+---
+
+## **5. Wrap‑Up: From Personal Ideas to Shared Exploration**
+
+### **In‑Class Reflection:**
+- How did your idea change when others engaged with it?
+- Which prompts felt most productive or surprising?
+- What directions are you curious to explore further?
+
+### **Looking Ahead:**
+- Week 3 will introduce **precedent research** and **Zotero** as formal tools
+- Students will begin distinguishing **inspiration** from **precedent**
+- Speculative ideas generated this week will feed directly into research and scoping next week
+
+---
+
+## **6. Assignment for Next Week**
+
+- Participate fully in the GitHub Discussion Board brainstorm
+- Respond to every peer’s discussion thread
+- Refine your personal project notes based on group input
+- No Zotero or precedent research deliverables are due yet
+
+The emphasis remains on **expansion, not narrowing**.
