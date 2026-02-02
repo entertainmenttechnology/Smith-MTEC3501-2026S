@@ -2,7 +2,7 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
-[Link to Initial Speculation Class Google Doc](https://docs.google.com/document/d/1ZxAizZq-tNI_USFXjVMqMC8Gy4u8zthl_NxuTtiQ_Vw/edit?usp=sharing)  
+[Link to Initial Speculation Class Google Doc](https://docs.google.com/document/d/17dtCbviGNDuQVRHUdDFX3N8N0ciVbDmRdqOC4befP7M/edit?usp=sharing)  
 [Link to Brainstorm 1 Class Google Doc](https://docs.google.com/document/d/1ZxAizZq-tNI_USFXjVMqMC8Gy4u8zthl_NxuTtiQ_Vw/edit?usp=sharing)  
 
 ---
