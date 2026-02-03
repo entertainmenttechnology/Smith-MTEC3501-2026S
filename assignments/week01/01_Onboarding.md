@@ -45,7 +45,7 @@ Complete all five platform registrations and three application installations by 
 1. Create an account on Zotero: https://www.zotero.org/user/register
 2. Download and install **Zotero Desktop**: https://www.zotero.org/download/
 3. Configure your desktop app to sync with your online Zotero account
-4. The course admin team will send an invitation to your registered Zotero email to join the shared group library. Accept it once received.
+4. The course admin team will send an invitation to your registered Zotero email to join the shared group library. Accept it once received.  We will complete these installations in teh Week 2 class.
 
 **Zotero Username Specification:**
 - Use a clear, professional username.
