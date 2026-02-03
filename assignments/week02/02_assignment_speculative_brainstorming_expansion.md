@@ -12,29 +12,48 @@ At this stage, **quantity, range, and boldness** matter more than feasibility, p
 
 ---
 
-## Part 1: Apply All Brainstorming Techniques to *Your Own Project*
+## Setup: Establish Your Discussion Board Presence & Create Your Working Document
 
-Using the **Brainstorming Techniques Guide**, apply **every technique** to your current project idea.
+**Before you begin brainstorming, complete these two steps:**
+
+### 1. Create a Discussion Board Comment (Your Hub)
+
+Navigate to the **GitHub Discussions** board for this assignment. Create a **top-level comment** that introduces your project. Begin with:
+
+```
+[Your Name] – Brainstorming for [Project Title]
+```
+
+Include a brief **Project Snapshot** (2–5 sentences describing what you think your project is right now, and why you chose it).
+
+You may also include links to relevant materials, such as:
+- Your GitHub branch (specify the branch name clearly, e.g., "working on `feature/main-concept` branch")
+- Google Drive or Dropbox links to proposal documents
+- Sketches, images, or inspiration links
+
+This comment becomes your hub. Other students will respond to this comment with peer feedback and brainstorming suggestions.
+
+### 2. Create Your Own Working Document
+
+Create a document called **"Brainstorming_1_[YourName]"** (e.g., "Brainstorming_1_Smith_David") and work wherever you are most comfortable — this can be a Google Doc, Markdown file, notebook, or any format that suits your thinking process. 
+
+(This is version 1, as there may be additional iterations later. Eventually, this document will be uploaded to your GitHub project folder for archival.)
+
+---
+
+## Part 1: Apply All Brainstorming Techniques to Your Own Project
+
+Using the **[Brainstorming Techniques Guide](../../documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)**, apply **every technique** to your current project idea in your own working document.
 
 - You should generate **multiple ideas per technique**
 - Do not filter or judge ideas yet
 - Wild, contradictory, impractical, or speculative ideas are encouraged
 
-### Where to work
-- Navigate to the **existing class Discussion thread** that has already been created for this assignment.
-- You will create a **single top-level comment** in that thread that contains your project idea and your full brainstorming expansion.
+### Organize Your Brainstorming
 
-**Your comment should begin with:**
-```
-[Your Name] – Project Brainstorming Expansion
-```
-
-- Organize the rest of your comment using headings for each technique:
+Use headings for each technique:
 
 ```markdown
-## Project Snapshot (Current Proposal)
-(2–5 sentences: what you think the project is right now, and why you chose it)
-
 ## What If…?
 ## Rapid Ideation
 ## Yes, And…
@@ -47,16 +66,21 @@ Using the **Brainstorming Techniques Guide**, apply **every technique** to your 
 
 You may use bullet lists, short paragraphs, sketches, links, or embedded media.
 
+**Important:** Complete Part 1 fully before moving to Part 2. Your own exploration must be complete before you support your peers.
+
 ---
 
 ## Part 2: Peer Brainstorming (Required)
 
-For **each other student’s project**, you must contribute **at least two substantial comments**, each using a *different brainstorming technique*.
+Once you have completed Part 1, you are ready to support your classmates.
 
-- Explicitly name the technique you are using in your comment
+For **each other student's brainstorming comment** in the Discussion Board, you must contribute **at least two substantial replies**, each using a *different brainstorming technique*.
+
+- Explicitly name the technique you are using in your reply
 - Focus on expanding, reframing, or destabilizing the idea — not evaluating it
+- Your replies should build on what the student has already shared in their initial proposal
 
-### Example comment structure
+### Example reply structure
 ```markdown
 **Technique Used:** Forced Juxtaposition
 
@@ -68,8 +92,10 @@ How would the pacing, repetition, or symbolism change?
 
 ## Expectations and Ground Rules
 
-- You must use **all techniques** on your own project
-- You must engage **every other student’s project**
+- You must use **all techniques** on your own project in Part 1
+- You must engage **every other student's project** in Part 2
+- Complete your own work (Setup + Part 1) before providing peer feedback (Part 2)
+- Do not share your internal brainstorming document yet — focus on the peer feedback process
 - This is not critique or refinement yet
 - Do not worry about feasibility, scope, or tools at this stage
 - More ideas = better outcome
