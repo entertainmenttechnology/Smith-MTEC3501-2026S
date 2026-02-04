@@ -2,6 +2,20 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
+### Week 2 Assignment
+**Description:**
+You will generate a Github branch named after yourself, and then in the "projects" folder, create a folder with your name. This will host and store all teh materials you will create.  
+In this folder, you will upload your speculative documents.  
+You will then go to the Discussion Board called _Brainstorm 1_ and create a new comment that contains your current idea.    
+You will perform a variety of different brainstorming techniques on your proposal, and generate as large a list of ideas as possible.  Once you do that, you will then go back to the Discussion Board and reply to each comment of other students with at least two different brainstorming ideas.  
+Details can be found in the link below
+
+**Link to assignment**  
+[assignments/week02/02_assignment_speculative_brainstorming_expansion](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/assignments/week02/02_assignment_speculative_brainstorming_expansion.md)  
+[
+
+### Week 1 materials  
+
 [Link to Initial Speculation Class Google Doc](https://docs.google.com/document/d/17dtCbviGNDuQVRHUdDFX3N8N0ciVbDmRdqOC4befP7M/edit?usp=sharing)  
 [Link to Brainstorm 1 Class Google Doc](https://docs.google.com/document/d/1ZxAizZq-tNI_USFXjVMqMC8Gy4u8zthl_NxuTtiQ_Vw/edit?usp=sharing)  
 
