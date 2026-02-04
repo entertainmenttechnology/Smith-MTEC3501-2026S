@@ -10,9 +10,9 @@ You will then go to the Discussion Board called _Brainstorm 1_ and create a new 
 You will perform a variety of different brainstorming techniques on your proposal, and generate as large a list of ideas as possible.  Once you do that, you will then go back to the Discussion Board and reply to each comment of other students with at least two different brainstorming ideas.  
 Details can be found in the link below
 
-**Link to assignment**  
+**Link to assignment documents**  
 [assignments/week02/02_assignment_speculative_brainstorming_expansion](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/assignments/week02/02_assignment_speculative_brainstorming_expansion.md)  
-[
+[02_Brainstorming Techniques](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)  
 
 ### Week 1 materials  
 
