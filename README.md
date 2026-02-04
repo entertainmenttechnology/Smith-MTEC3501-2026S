@@ -6,7 +6,7 @@
 **Description:**
 You will generate a Github branch named after yourself, and then in the "projects" folder, create a folder with your name. This will host and store all teh materials you will create.  
 In this folder, you will upload your speculative documents.  
-You will then go to the Discussion Board called _Brainstorm 1_ and create a new comment that contains your current idea.  **IT IS CRITICAL THAT YOU DO THIS EARLY!**.  Other students will be responding to your idea, and if it is not up on teh discussion board they will not be able to.      
+You will then go to the Discussion Board called _Brainstorm 1_ and create a new comment that contains your current idea.  **IT IS CRITICAL THAT YOU DO THIS EARLY!**.  Other students will be responding to your idea, and if it is not up on the discussion board they will not be able to.      
 You will perform a variety of different brainstorming techniques on your proposal, and generate as large a list of ideas as possible.  You must deploy each type of brainstorm technique. Make sure to indicate in your brainstorm document which technique us used for each idea.
 Once you do that, you will then go back to the Discussion Board and reply to each comment of other students with at least two different brainstorming ideas.  
 Details can be found in the link below
