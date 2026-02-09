@@ -61,7 +61,7 @@ All new students must complete **Week 1 Onboarding** before proceeding:
 Useful links:
 
 - Assignments index: [documents-Class/assignments/README.md](documents-Class/assignments/README.md)
-- Syllabus: [documents-Class/Syllabus.pdf](documents-Class/Syllabus.pdf)
+- Syllabus: [Simple Syllabus](https://citytech-cuny.simplesyllabus.com/doc/tkifbirpp/Spring-2026-%281262%29-MTEC-3501-H01-Culmination-Project-Devel?mode=view)
 
 ---
 
