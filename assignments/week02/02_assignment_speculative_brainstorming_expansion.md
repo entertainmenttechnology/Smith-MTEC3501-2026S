@@ -18,7 +18,7 @@ At this stage, **quantity, range, and boldness** matter more than feasibility, p
 
 ### 1. Create a Discussion Board Comment (Your Hub)
 
-Navigate to the **GitHub Discussions** board for this assignment. Create a **top-level comment** that introduces your project. Begin with:
+Navigate to the **GitHub Discussions** board for this assignment. In the Discussion Board _Welcome to Brainstorm 1!_, Create a **top-level comment** that introduces your project. Begin with:
 
 ```
 [Your Name] – Brainstorming for [Project Title]
