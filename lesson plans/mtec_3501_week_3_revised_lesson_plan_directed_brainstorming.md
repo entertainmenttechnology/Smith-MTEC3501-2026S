@@ -65,6 +65,7 @@ This replaces the earlier **guided questions** format.
 - Practice multiple brainstorming techniques as explicit tools
 - Allow students to experience how different methods produce different insights
 - Build shared literacy around ideation strategies
+- [Source for brainstorming techniques](../documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)
 
 **Primary reference document:**
 
