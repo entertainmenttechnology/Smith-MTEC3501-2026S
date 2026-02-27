@@ -2,6 +2,16 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
+### Week 4 Assignment ### (2026-02-23)
+[Make It Specific: Transition from Speculation to Research](assignments/week04/04_assignment_make_it_specific.md)   
+
+**Purpose:**  This assignment moves your project from open-ended brainstorming into structural clarity. You are not finalizing your idea. You are making it precise enough that research, feasibility testing, and prototype planning can begin.
+
+If your idea cannot be described clearly, it cannot be built.  Let's make sure we can build it!
+
+### Week 3 Assignment ###  
+
+
 ### Week 2 Assignment
 **Description:**
 You will generate a Github branch named after yourself, and then in the "projects" folder, create a folder with your name. This will host and store all the materials you will create.  
