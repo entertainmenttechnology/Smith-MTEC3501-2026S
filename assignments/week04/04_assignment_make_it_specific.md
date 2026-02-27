@@ -39,6 +39,23 @@ Your document must:
 - Clearly distinguish between experience and system
 - Identify at least one concrete dependency
 
+**Clarification: What “Explicit Dependency” means**
+
+An explicit dependency is the critical condition your project relies on to function as intended.
+If this condition fails, the core experience breaks down.
+
+Good dependency examples:
+
+- "This depends on low-latency input response so users can perceive real-time cause and effect."
+- "This depends on reliable tracking in low light so gesture interaction remains usable."
+- "This depends on stable API access so generated outputs can be produced during use."
+
+Weak (too vague) dependency examples:
+
+- "This depends on users liking it."
+- "This depends on good technology."
+- "This depends on everything working."
+
 If the system cannot be understood by someone outside your team, revise it.
 
 ---
