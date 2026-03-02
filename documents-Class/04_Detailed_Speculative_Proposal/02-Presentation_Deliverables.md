@@ -1,4 +1,4 @@
-# 📌 MTEC 3501: March 17 Project Proposal Presentation – Deliverables  
+# 📌 MTEC 3501: March 16 Project Proposal Presentation – Deliverables  
 
 ## **Overview**  
 The **March 17 Presentation** serves as a critical checkpoint where students will complete the **Research/Design** phase via a juried **assessment** of the proposal's feasability and potential.  After integrating feedbacck from this presentation, you will then move into **early Production planning**. Students must clearly define their project vision, research findings, production milestones, and **what their end-of-semester proof of concept will be** (even though it will not be built yet).  
@@ -6,7 +6,7 @@ The **March 17 Presentation** serves as a critical checkpoint where students wil
 ---
 
 ## **📂 Required Deliverables**  
-Students must submit the following **before** their March 17 presentation.  
+Students must submit the following **before** their March 16 presentation.  
 
 | **Category** | **Deliverable** | **Description** | **Submission Format** |
 |-------------|---------------|----------------|------------------|
@@ -54,7 +54,7 @@ Each student should structure their **oral presentation** following this flow:
 ---
 
 ## **📂 Submission Guidelines**  
-📌 **Oral Presentation:** **Delivered live on March 17**  
+📌 **Oral Presentation:** **Delivered live on March 16**  
 📌 **Google Drive:** Upload slides as a PDF in `Panel-1-Deliverables/`  
 📌 **GitHub:**  
 - **Proposal document** → `Projects/[StudentName]/Proposal/` folder  
