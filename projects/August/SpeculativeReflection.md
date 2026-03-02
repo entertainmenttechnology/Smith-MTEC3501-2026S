@@ -1,29 +1,24 @@
-1. **Title & Concept Name** – Give your idea a working name.
+### The Enigma Machine 
+ 
 
-###The Enigma Machine 
+The enigma machine project could be set up as an interactive installation, each person would be able to interact with and encode their own message. Each message would be uniquely encoded.
 
-2. **Speculative Premise** – What future, system, or experience are you imagining?  
-
-I could see this project as an interactive installation. Each person could type something out and see the machine work to encode each letter.   
-   
-3. **Core Idea (in plain words)** – What is at the heart of your project?
-
-This project is a recreation of the Enigma Machine created and decoded during WWII. I want to recreate the Enigma 1 using modern manufacturing processes but with mostly mechanical and simple electrical parts.
+The core focus of this project is the recreation of the Enigma Machine created and decoded during WWII. More specificly I want to recreate the Enigma I using modern manufacturing processes but with mostly mechanical and simple electrical parts.
 
 4. **Metaphor or Narrative** – A story, image, or analogy that frames your idea.  
 
 
-5. **Speculative Qualities** – What makes it bold, emergent, or disruptive?  
-   The enigma machine in modern times creates an interesting message. It was designed to be an unbreakable encoding device that is very flawed compared to modern technology. It shows that everything is breakable.   
+
+As an instillation in modern times the enigma machine has an interesting message. It was designed to be an unbreakable encoding device that is very flawed compared to modern technology. It shows that everything is breakable.   
+   
 6. **Personal Connection** – How does it connect to your experiences, knowledge, passions, or inspirations?  
 
-7. **User Experience (UX) & Modality**
 
-   To use the enigma machine the user will press a key on the keyboard. This will cause a series of parts to move, rotating the rotors and eventually lighting up an encoded letter on the display. 
 
-8. **Challenges & Unknowns** – What parts feel difficult, unresolved, or uncertain? What questions remain open?  
+To use the enigma machine the user will press a key on the keyboard. This will cause a series of parts to move, rotating the rotors and eventually lighting up an encoded letter on the display. Through the use of a clear case each part of the machine would be visable allowing for a each mechinism to be watched. 
 
-The main challenges I see are the overall complexity of moving parts and electronics. Many of the parts will have to be resigned multiple times to make the mechanisms work.  
+
+There are many challenges that I can see with this project, the overall complexity of moving parts and electronics. Many of the parts will have to be resigned multiple times to make the mechanisms work.  
  
 9. **Long Arc Potential** – If it developed over years or decades, what could it become?
 
@@ -34,3 +29,8 @@ I think there are a few ways this project could go if more time was spent on it:
 * Features, I could choose to focus on adding more modern features to the enigma machine moving away from the original with modern technology.
 
 * Complexity, I could choose to focus on increasing the complexity of the enigma machine through the use of extra rotors and other mechanisms. 
+
+
+
+
+My other project idea would be creating flip dot display modules which are a series of mechanical display modules that are connected allowing for information to be shown with electricity only needed on each update. Although these were at one point used and made they are uncommon to find now even though they create a unique experience.
