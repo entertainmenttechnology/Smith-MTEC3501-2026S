@@ -12,7 +12,7 @@ For full panel requirements, refer to [02-Presentation Deliverables](../../docum
 
 ## Quick Submission Checklist (Week 6)
 
-Before class on March 9, confirm all items below are complete in your GitHub project space:
+Before class on March 9, confirm all items below are in your GitHub project space:
 
 - [ ] Updated `README.md` that links major deliverables
 - [ ] Practice slide deck (Google Slides, PDF, or PPTX) linked from `README.md`
@@ -23,6 +23,13 @@ Before class on March 9, confirm all items below are complete in your GitHub pro
 - [ ] GitHub milestones and issues updated (at least one issue per breakpoint)
 - [ ] Unresolved decisions explicitly documented (not left blank)
 
+**Note at this time it is better to have SOMETHING for each, even if it is at this moment a placeholder.**
+
+http://qflowbpm.com/en/process-flowcharts/
+https://www.atlassian.com/blog/project-management/write-an-effective-project-plan
+https://www.canva.com/online-whiteboard/process-mapping/
+
+
 ---
 
 ## Non-Negotiables
@@ -30,22 +37,23 @@ Before class on March 9, confirm all items below are complete in your GitHub pro
 - Be specific. Vagueness is not acceptable.
 - If something is unresolved, name it directly.
 - Do not leave structural gaps. Replace blank sections with a defined open question.
-- Do not read from slides. Slides are structure support, not script pages.
+- **Do not read from slides.** Slides are structure support, not script pages.
 - Keep the practice presentation under 10 minutes.
 
-If you are stuck between two options, document:
+If you are stuck between options, document:
 
-1. The two options
+1. The options
 2. Decision criteria
 3. Test/research needed to decide
 4. Where this decision appears in your process diagram
+5. It is better to select one and move on (documenting this is still an unknown). Often deploying one solution will allow testing or better evaluation.  
 
 ---
 
 ## Key Terms (Use Consistently)
 
 - **Climax:** your full, ideal project vision.
-- **LVP:** the leanest version that still expresses the core experience/mechanism.
+- **LVP (Least Viable Product):** the leanest version that still expresses the core experience/mechanism.
 - **PoC (Proof of Concept):** the end-of-semester demonstrable build that proves your core system works.
 - **Breakpoint ("Miracle")**: a large unresolved leap in logic, production, or feasibility.
 
@@ -55,13 +63,14 @@ If you are stuck between two options, document:
 
 Continue building and structuring your Zotero library. This week formalizes your tagging standard.
 
-Tagging guide: <https://pressbooks.library.yorku.ca/masteringzotero/chapter/working-with-tags/>  
-Platform: <https://www.zotero.org/>
+Tagging guide: [Mastering Zotero: Working with Tags](https://pressbooks.library.yorku.ca/masteringzotero/chapter/working-with-tags)  
+Platform: [Zotero](https://www.zotero.org)
 
-### 1) Required Research-Type Tag (Exactly One Per Entry)
+### 1) Required Research-Type Tag (One Per Entry)
 
 Use one of the following tags per entry:
 
+- `speculative-research`
 - `inspirational-research`
 - `precedent-research`
 - `technical-research`
