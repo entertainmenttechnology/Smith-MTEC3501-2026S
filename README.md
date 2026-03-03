@@ -2,12 +2,10 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
-### Week 4 Assignment ### (2026-02-23)
-[Make It Specific: Transition from Speculation to Research](assignments/week04/04_assignment_make_it_specific.md)   
+### Week 6 Assignment ### (2026-03-09)
+[Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)
 
-**Purpose:**  This assignment moves your project from open-ended brainstorming into structural clarity. You are not finalizing your idea. You are making it precise enough that research, feasibility testing, and prototype planning can begin.
-
-If your idea cannot be described clearly, it cannot be built.  Let's make sure we can build it!
+**Purpose:** This assignment prepares students for the March 16 juried presentation through structured Zotero tagging, a specific 10-minute practice presentation, a process diagram, and a forward roadmap to the end-of-semester PoC.
 
 ### Week 3 Assignment ###  
 
