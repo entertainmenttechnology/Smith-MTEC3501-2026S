@@ -25,9 +25,11 @@ Before class on March 9, confirm all items below are in your GitHub project spac
 
 **Note at this time it is better to have SOMETHING for each, even if it is at this moment a placeholder.**
 
-http://qflowbpm.com/en/process-flowcharts/
-https://www.atlassian.com/blog/project-management/write-an-effective-project-plan
-https://www.canva.com/online-whiteboard/process-mapping/
+The following links go to partiucular visualization software systems, but the informaiton they provide is universally applicable.  
+
+[Process Flowcharts (qflowbpm)](http://qflowbpm.com/en/process-flowcharts/)  
+[Project Plan (artlassian)](https://www.atlassian.com/blog/project-management/write-an-effective-project-plan)  
+[Process mapping (Canva)](https://www.canva.com/online-whiteboard/process-mapping/)  
 
 
 ---
@@ -67,6 +69,7 @@ Tagging guide: [Mastering Zotero: Working with Tags](https://pressbooks.library.
 Platform: [Zotero](https://www.zotero.org)
 
 ### 1) Required Research-Type Tag (One Per Entry)
+
 
 Use one of the following tags per entry:
 
