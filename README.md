@@ -2,12 +2,12 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
-### Week 6 Assignment ### (2026-03-09)
+### Week 6 Assignment (2026-03-09)
 [Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)
 
 **Purpose:** This assignment prepares students for the March 16 juried presentation through structured Zotero tagging, a specific 10-minute practice presentation, a process diagram, and a forward roadmap to the end-of-semester PoC.
 
-### Week 3 Assignment ###  
+
 
 
 ### Week 2 Assignment

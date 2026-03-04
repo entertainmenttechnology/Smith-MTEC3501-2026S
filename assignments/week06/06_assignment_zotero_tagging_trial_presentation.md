@@ -25,10 +25,6 @@ Before class on March 9, confirm all items below are in your GitHub project spac
 
 **Note at this time it is better to have SOMETHING for each, even if it is at this moment a placeholder.**
 
-http://qflowbpm.com/en/process-flowcharts/
-https://www.atlassian.com/blog/project-management/write-an-effective-project-plan
-https://www.canva.com/online-whiteboard/process-mapping/
-
 
 ---
 
@@ -67,6 +63,7 @@ Tagging guide: [Mastering Zotero: Working with Tags](https://pressbooks.library.
 Platform: [Zotero](https://www.zotero.org)
 
 ### 1) Required Research-Type Tag (One Per Entry)
+
 
 Use one of the following tags per entry:
 
@@ -126,7 +123,7 @@ Use this flow (adapted from [02-Presentation Deliverables](../../documents-Class
 
 ---
 
-## Part III – Process Diagram (Required in Slides)
+## Part III – Process Diagram (Required in Slides and as a start to the larger timeline required at teh end of the semester)
 
 Build a flowchart-style process diagram derived from your **Make It Specific** document.
 
@@ -140,6 +137,12 @@ Your diagram must show:
 - path to end-of-semester PoC.
 
 If a large leap remains, it is still a breakpoint.
+
+The following links go to particular visualization software systems, but the information they provide is universally applicable in many pieces of software.  
+
+[Process Flowcharts (qflowbpm)](http://qflowbpm.com/en/process-flowcharts/)  
+[Project Plan (artlassian)](https://www.atlassian.com/blog/project-management/write-an-effective-project-plan)  
+[Process mapping (Canva)](https://www.canva.com/online-whiteboard/process-mapping/)  
 
 ---
 
