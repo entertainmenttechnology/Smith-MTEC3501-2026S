@@ -2,43 +2,18 @@
 
 *New York City College of Technology (City Tech) • Department of Entertainment Technology*
 
-### Week 6 Assignment (2026-03-09)
-[Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)
-
-**Purpose:** This assignment prepares students for the March 16 juried presentation through structured Zotero tagging, a specific 10-minute practice presentation, a process diagram, and a forward roadmap to the end-of-semester PoC.
-
-
-
-
-### Week 2 Assignment
-**Description:**
-You will generate a Github branch named after yourself, and then in the "projects" folder, create a folder with your name. This will host and store all the materials you will create.  
-In this folder, you will upload your speculative documents.  
-You will then go to the Discussion Board called _Brainstorm 1_ and create a new comment that contains your current idea.  **IT IS CRITICAL THAT YOU DO THIS EARLY!**.  Other students will be responding to your idea, and if it is not up on the discussion board they will not be able to.      
-You will perform a variety of different brainstorming techniques on your proposal, and generate as large a list of ideas as possible.  You must deploy each type of brainstorm technique. Make sure to indicate in your brainstorm document which technique us used for each idea.
-Once you do that, you will then go back to the Discussion Board and reply to each comment of other students with at least two different brainstorming ideas.  
-Details can be found in the link below
-
-**Link to assignment documents**  
-[assignments/week02/02_assignment_speculative_brainstorming_expansion](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/assignments/week02/02_assignment_speculative_brainstorming_expansion.md)  
-[02_Brainstorming Techniques](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)  
-[Discussion Board: Welcome to Brainstorm 1!](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/discussions/1)  
-
-### Week 1 materials  
-
-[Link to Initial Speculation Class Google Doc](https://docs.google.com/document/d/17dtCbviGNDuQVRHUdDFX3N8N0ciVbDmRdqOC4befP7M/edit?usp=sharing)  
-[Link to Brainstorm 1 Class Google Doc](https://docs.google.com/document/d/1ZxAizZq-tNI_USFXjVMqMC8Gy4u8zthl_NxuTtiQ_Vw/edit?usp=sharing)  
-
----
-
 ## Semester: Spring 2026
-
-Term: Jan–May 2026
-
-**Instructor:** [David B Smith] • **Contact:** [dsmith@citytech.cuny.edu](dsmith@citytech.cuny.edu)
+Term: Jan–May 2026  
+**Instructor:** [David B Smith] • **Contact:** [dsmith@citytech.cuny.edu](dsmith@citytech.cuny.edu) 
 
 MTEC 3501 guides students through the research, proposal, and planning stages toward a culminating project and proof-of-concept prototype.
 
+---
+### CURRENT ASSIGNMENT: 
+Week 6 (2026-03-09)
+[Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)
+
+**Purpose:** This assignment prepares students for the March 16 juried presentation through structured Zotero tagging, a specific 10-minute practice presentation, a process diagram, and a forward roadmap to the end-of-semester PoC.
 ---
 
 ## Quick Start (students)
@@ -127,12 +102,24 @@ All major deliverables require a short AI-use report: prompts, tools, and a brie
 - [Lesson Plans (faculty only)](documents-Class/lesson-plans/)
 - [Support Materials](documents-Class/support/)
 
----
 
-## Changelog
 
-- **Spring 2026** — Updated header for Spring 2026; added `Quick Start`, `Repository Map`, instructor/contact placeholder, and `Changelog` entry. Refreshed links and clarified student workflow.
 
----
+### Week 2 Assignment
+**Description:**
+You will generate a Github branch named after yourself, and then in the "projects" folder, create a folder with your name. This will host and store all the materials you will create.  
+In this folder, you will upload your speculative documents.  
+You will then go to the Discussion Board called _Brainstorm 1_ and create a new comment that contains your current idea.  **IT IS CRITICAL THAT YOU DO THIS EARLY!**.  Other students will be responding to your idea, and if it is not up on the discussion board they will not be able to.      
+You will perform a variety of different brainstorming techniques on your proposal, and generate as large a list of ideas as possible.  You must deploy each type of brainstorm technique. Make sure to indicate in your brainstorm document which technique us used for each idea.
+Once you do that, you will then go back to the Discussion Board and reply to each comment of other students with at least two different brainstorming ideas.  
+Details can be found in the link below
 
-If you'd like, I can fill in the instructor contact, exact term dates, or adjust wording to match department templates.
+**Link to assignment documents**  
+[assignments/week02/02_assignment_speculative_brainstorming_expansion](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/assignments/week02/02_assignment_speculative_brainstorming_expansion.md)  
+[02_Brainstorming Techniques](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/documents-Class/02_Brainstorming/02_brainstorming_techniques_guide.md)  
+[Discussion Board: Welcome to Brainstorm 1!](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/discussions/1)  
+
+### Week 1 materials  
+
+[Link to Initial Speculation Class Google Doc](https://docs.google.com/document/d/17dtCbviGNDuQVRHUdDFX3N8N0ciVbDmRdqOC4befP7M/edit?usp=sharing)  
+[Link to Brainstorm 1 Class Google Doc](https://docs.google.com/document/d/1ZxAizZq-tNI_USFXjVMqMC8Gy4u8zthl_NxuTtiQ_Vw/edit?usp=sharing)  
