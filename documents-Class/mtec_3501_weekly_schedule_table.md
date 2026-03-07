@@ -8,7 +8,7 @@
 | — | — | Feb 16 | **NO CLASS – College Closed** | — |
 | 4 | In Person | Feb 23 | Precedent research and citation practices; Zotero integration; linking citations in GitHub Markdown | Research summary uploaded |
 | 5 | Zoom | Mar 2 | Mediation pathways in practice; diagramming project environment; uploading diagrams/images to GitHub | Mediation pathway diagram committed |
-| 6 | In Person | Mar 9 | Early production planning and milestone definition; Collaborative AI in prototyping; GitHub milestones | — |
+| 6 | In Person | Mar 9 | Early production planning and milestone definition; GitHub milestones; Rehearse Next Week Presentations | — |
 | 7 | In Person | Mar 16 | Midpoint peer and adjudication feedback on proposals; GitHub feedback templates | Oral presentation of current project state |
 | 8 | Zoom | Mar 23 | Prototyping tools and mockups; GitHub branching and merging workflows | — |
 | 9 | In Person | Mar 30 | Documentation and reflective AI use; GitHub pull requests and code review | Draft documentation artifacts (timeline, budget, design notes) |
