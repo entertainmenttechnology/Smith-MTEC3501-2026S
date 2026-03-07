@@ -11,10 +11,11 @@ MTEC 3501 guides students through the research, proposal, and planning stages to
 ---
 ### CURRENT ASSIGNMENT: 
 Week 6 (2026-03-09)
-[Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)
+[Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)  
 
-**Purpose** 
+**Purpose**    
 This assignment prepares students for the March 16 juried presentation through structured Zotero tagging, a specific 10-minute practice presentation, a process diagram, and a forward roadmap to the end-of-semester PoC.
+
 ---
 
 ## Quick Start (students)
