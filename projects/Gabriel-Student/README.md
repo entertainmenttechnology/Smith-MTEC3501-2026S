@@ -10,3 +10,6 @@ https://docs.google.com/document/d/1s529NqV5OHT0pGMNSwAvYzWxB30CwW-Bkt30tEaWpeo/
 
 Working Document:
 https://docs.google.com/document/d/1bY19W9m2r9KZBUkHllRVCRYlz4uBrQr077C1bNpy7jU/edit?usp=sharing
+
+Make it Specific:
+https://docs.google.com/document/d/1iqAaTTLsJuX95nuvp_0ZbT_mrIvJ-kjpcxfYj4_i4MM/edit?tab=t.wv3yzny2jtqr
