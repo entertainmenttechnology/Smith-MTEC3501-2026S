@@ -13,3 +13,6 @@ https://docs.google.com/document/d/1bY19W9m2r9KZBUkHllRVCRYlz4uBrQr077C1bNpy7jU/
 
 Make it Specific:
 https://docs.google.com/document/d/1iqAaTTLsJuX95nuvp_0ZbT_mrIvJ-kjpcxfYj4_i4MM/edit?tab=t.wv3yzny2jtqr
+
+Presentation:
+https://www.canva.com/design/DAHDdi_LrIw/dkwj1N-gjnr21NrIl2AZTQ/edit?utm_content=DAHDdi_LrIw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
