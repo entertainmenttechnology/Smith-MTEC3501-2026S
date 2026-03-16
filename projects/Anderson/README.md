@@ -3,3 +3,5 @@
 [Creating games](https://www.construct.net/en/make-games/games-editor)
 
 [Platforming tutorial](https://www.construct.net/en/tutorials/platformer-game-2329)
+
+[Construct3 Documentation](https://www.construct.net/en/make-games/manuals/construct-3)
