@@ -1,23 +1,13 @@
 name: Project Task
 description: Create a structured task for your project execution system.
-title: "[TASK] "
-labels: []
-assignees: []
+labels: ["task"]
+assignees: ["@me"]
 
 body:
 
   - type: markdown
     attributes:
       value: "## Task Definition"
-
-  - type: input
-    id: title
-    attributes:
-      label: Task Title
-      description: Use an action-oriented title (verb + object).
-      placeholder: "Design signal flow for audio subsystem"
-    validations:
-      required: true
 
   - type: textarea
     id: description
@@ -56,7 +46,7 @@ body:
     id: acceptance
     attributes:
       label: Acceptance Criteria (Definition of Done)
-      description: List specific conditions required for completion.
+      description: List specific conditions required for completion. Must include at least one concrete deliverable.
       placeholder: |
         - Condition 1
         - Condition 2
@@ -68,13 +58,13 @@ body:
     id: dependencies
     attributes:
       label: Dependencies
-      description: List related issues or prerequisites (Issue # if known).
+      description: List related issues or prerequisites (Issue # if known). Example: #12, #15
 
   - type: input
     id: milestone
     attributes:
       label: Milestone
-      description: Which milestone does this belong to? (Also assign in GitHub UI)
+      description: Which milestone does this belong to? (You must also assign this in the GitHub sidebar)
 
   - type: input
     id: component
