@@ -10,6 +10,10 @@ MTEC 3501 guides students through the research, proposal, and planning stages to
 
 ---
 ### CURRENT ASSIGNMENT: 
+Week 7 (2026-03-16)
+[Research Structuring & Practice Presentation](assignments/week07/mtec_3501_git_hub_milestones_and_issues_assignment.md)  
+
+### PRIOR ASSIGNMENT:
 Week 6 (2026-03-09)
 [Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)  
 
