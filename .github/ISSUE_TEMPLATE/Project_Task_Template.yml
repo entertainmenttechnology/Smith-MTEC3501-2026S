@@ -1,60 +1,85 @@
 name: Project Task
-description: Create a new task for your project following the 5-stage process.
-title: "[TASK] "
-labels: []
-assignees: []
+description: Create a structured task for your project execution system.
+labels: ["task"]
+assignees: ["@me"]
+
 body:
+
   - type: markdown
     attributes:
-      value: "## 🎯 Task Overview"
-  
-  - type: input
-    id: task_name
-    attributes:
-      label: "Task Name"
-      description: "Provide a short title for this task."
-    validations:
-      required: true
+      value: "## Task Definition"
 
   - type: textarea
-    id: task_description
+    id: description
     attributes:
-      label: "📄 Description"
-      description: "Provide a detailed description of the task, including objectives, deliverables, and any key details."
-      placeholder: "Example: Research historical puppet design techniques and document findings."
+      label: Description (What + Why)
+      description: Explain what this task is and why it matters.
     validations:
       required: true
 
   - type: dropdown
-    id: task_stage
+    id: type
     attributes:
-      label: "🛠 Assigned Stage"
-      description: "Which development stage does this task belong to?"
+      label: Task Type
+      description: Select the operational category of this task.
       options:
-        - Research 📖
-        - Design 🎨
-        - Produce 🛠️
-        - Publish 🚀
-        - Assess 📊
+        - Design
+        - Prototype
+        - Research
+        - Integration
+        - Documentation
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance Criteria (Definition of Done)
+      description: List specific conditions required for completion. Must include at least one concrete deliverable.
+      placeholder: |
+        - Condition 1
+        - Condition 2
+        - Deliverable artifact
     validations:
       required: true
 
   - type: input
-    id: due_date
+    id: dependencies
     attributes:
-      label: "📅 Expected Completion Date"
-      description: "Enter the target completion date in YYYY-MM-DD format."
+      label: Dependencies
+      description: List related issues or prerequisites (Issue # if known). Example: #12, #15
 
   - type: input
-    id: repo_link
+    id: milestone
     attributes:
-      label: "🔗 Repository Link (if applicable)"
-      description: "Provide the URL if this task involves a repository."
-      placeholder: "https://github.com/your-repo"
+      label: Milestone
+      description: Which milestone does this belong to? (You must also assign this in the GitHub sidebar)
+
+  - type: input
+    id: component
+    attributes:
+      label: Component / Subsystem
+      description: Which part of your project does this affect? (e.g., audio, UI, hardware)
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Where did this task originate? (feedback, research, critique, etc.)
 
   - type: textarea
     id: ai_usage
     attributes:
-      label: "🤖 AI Collaboration Report"
-      description: "Describe how AI was used for this task (if applicable). Include tools, effectiveness, and human-AI balance."
-      placeholder: "Example: Used ChatGPT for research insights and GitHub Copilot for code suggestions."
+      label: AI Collaboration (Optional)
+      description: Briefly describe AI involvement, if applicable.
