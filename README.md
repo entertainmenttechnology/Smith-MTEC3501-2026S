@@ -11,7 +11,15 @@ MTEC 3501 guides students through the research, proposal, and planning stages to
 ---
 ### CURRENT ASSIGNMENT: 
 Week 7 (2026-03-16)
+<<<<<<< HEAD
 [From Feedback to Execution (GitHub System)](assignments/week07/mtec_3501_git_hub_milestones_and_issues_assignment.md)  
+=======
+[Github Milestones and issues](assignments/week07/mtec_3501_git_hub_milestones_and_issues_assignment.md)  
+
+### PRIOR ASSIGNMENT:
+Week 6 (2026-03-09)
+[Research Structuring & Practice Presentation](assignments/week06/06_assignment_zotero_tagging_trial_presentation.md)  
+>>>>>>> a80eda6755d4ee38ef0f904aea8049a6aecd13b7
 
 **Purpose**    
 This assignment uses presentation assessment as research and analysis: students translate feedback into individual GitHub Issues on a Project Board, define clear acceptance criteria, and build the structured material needed to begin designing an actionable project timeline.
