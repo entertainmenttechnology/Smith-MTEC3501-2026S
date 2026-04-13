@@ -1,143 +1,83 @@
-# MTEC 3501 — Assignment 8
+# MTEC 3501 - Assignment 08
 ## Timeline Setup, Issue Tracking, and Milestones
 
----
+Due: End of Week 08  
+Submission: GitHub issue in your course repository
 
-## Purpose
+## Learning Goal
+By the end of this assignment, you will configure a GitHub Project roadmap with Start Date and Target Date fields, apply dates to active issues, establish dependency links, and define milestone issues that show a coherent, testable sequence from LVP to final presentation.
 
-This assignment introduces how to track your project over time using GitHub Projects.
+## What You Will Produce
+1. A configured Roadmap view with Start Date and Target Date fields.
+2. Dated issues with realistic sequencing.
+3. Dependency links that reflect actual build order.
+4. Five required milestone issues plus any project-specific milestones you need, each connected to supporting work.
+5. A short written reflection on timeline risk and sequencing logic.
 
-You will:
-- Add time structure to your issues
-- Visualize work across the semester
-- Begin organizing execution toward milestones
+## Part 1 - Configure Timeline in GitHub Projects
 
-This is the first step in moving from **a set of issues** to **a coordinated development system**.
+### Step 1 - Add Date Fields
+1. Open your project.
+2. Switch to Table view.
+3. Add these fields:
+   - Start Date (Date)
+   - Target Date (Date)
 
----
+### Step 2 - Connect Date Fields to Roadmap
+1. Switch to Roadmap view.
+2. Open Date fields (calendar icon).
+3. Set:
+   - Start date -> Start Date
+   - Target date -> Target Date
 
-## Part 1 — Setup: Timeline in GitHub Projects
+### Step 3 - Date Your Active Issues
+Add Start Date and Target Date for all active issues. You can do this by editing issue fields or dragging issues on the roadmap.
 
-### Step 1 — Add Date Fields
+### Step 4 - Enable Dependencies
+1. Open View settings (gear icon).
+2. Turn Dependencies on.
 
-1. Open your project
-2. Switch to a **Table view**
-3. Scroll to the far right and click **+** (add field)
+## Part 2 - Create and Define Milestones
 
-Create the following fields:
+### Milestone vs Issue (Lecture Alignment)
+In lecture, we define these roles clearly:
+1. Issue = a specific, actionable unit of work.
+2. Milestone = a validated system state achieved by completing multiple related issues.
 
-- **Start Date** (Type: Date)
-- **Target Date** (Type: Date)
+Use that distinction when deciding whether to create a normal issue or a milestone issue.
 
----
+### Milestone Issue Format
+Create milestones as issues in your repository using this title format:
+[MILESTONE] Milestone Name
 
-### Step 2 — Connect Fields to the Roadmap
+Add label: milestone
 
-1. Switch to **Roadmap view**
-2. Click the **calendar icon (Date fields)** in the top-right
+Each milestone issue must include both sections below:
 
-Set:
+System State (what must exist):
+- At least 3 concrete conditions
 
-- Start date → Start Date
-- Target date → Target Date
-
-Your issues will now appear as timeline bars.
-
----
-
-### Step 3 — Add Dates to Issues
-
-If your roadmap is empty, your issues do not yet have dates.
-
-You may:
-
-- Click an issue and manually enter dates
-
-OR
-
-- Drag issues directly onto the roadmap to assign dates
-
----
-
-### Step 4 — Enable Dependencies
-
-1. Open **View settings** (gear icon)
-2. Turn **Dependencies ON**
-
-This will show relationships between issues.
-
----
-
-## Part 2 — Milestone Creation and Weekly Development
-
-### Creating Milestones as Issues
-
-You will create milestones as **issues within your project board** so they can be visualized on your roadmap.
-
-#### Step 1 — Create Milestone Issues from Project Board
-
-1. Open your Project Board
-2. Click **+ Add item**
-3. Select **Add draft issue**
-4. Title using:
-
-`[MILESTONE] <Milestone Name>`
-
-5. Click the item and select **Convert to issue**
-6. Choose your repository
-
----
-
-#### Step 2 — Define the Milestone
-
-Each milestone issue must include:
-
-**System State** (what must exist):
-- 
-- 
-- 
-
-**Validation** (how you know it is complete):
-- 
-- 
-- 
-
----
-
-#### Step 3 — Add to Timeline
-
-- Assign **Start Date** and **Target Date**
-- Ensure milestone appears on roadmap
-
----
-
-#### Step 4 — Label Milestones
-
-- Add label: `milestone`
-
----
-
-#### Step 5 — Attach Issues to Milestones
-
-- Link relevant issues in the milestone description
-- OR use a checklist of issue references
-
----
+Validation (how completion is verified):
+- At least 3 testable completion checks
 
 ### Required Milestones (All Projects)
+1. [MILESTONE] LVP Defined
+2. [MILESTONE] Prototype v0
+3. [MILESTONE] Functional System
+4. [MILESTONE] Pre-Final Integration
+5. [MILESTONE] Final Presentation
 
-All projects must include the following milestones:
+You may add additional milestone issues beyond these five if your project needs intermediate checkpoints.
 
-1. **[MILESTONE] LVP Defined**
-
-This milestone must be fully specified using the following structure inside the milestone issue:
+### Additional Requirement for [MILESTONE] LVP Defined
+Use this structure in the issue body:
 
 ```markdown
 ## Experience
 (Describe what the user/viewer experiences)
 
 ## System Behavior
-(Input → process → output)
+(Input -> process -> output)
 
 ## Scope and Limitations
 (What is included and excluded in the LVP)
@@ -146,170 +86,59 @@ This milestone must be fully specified using the following structure inside the 
 (List major subsystems and link related issues)
 
 ## LVP vs Final Version
-(What is not yet included and what will be expanded later)
+(What is not included yet and what expands later)
 ```
 
-This milestone is complete when:
-- The system can be clearly explained from both user and technical perspectives
-- The scope of the LVP is bounded and realistic
-- All major components are identified and connected to issues
-- The difference between LVP and final system is स्पष्ट (clear)
+Completion criteria for this milestone:
+1. The system is clear from user and technical perspectives.
+2. The LVP scope is bounded and realistic.
+3. Major components are identified and linked to issues.
+4. The difference between LVP and final system is explicit.
 
----
+## Part 3 - Connect Work to Milestones
+1. Assign Start Date and Target Date to each milestone issue.
+2. Link supporting issues to each milestone (issue links or checklist references).
+3. Add dependency relationships between issues where order matters.
 
-2. **[MILESTONE] Prototype v0**
-   - Initial working system (basic input → output)
+Example dependency chain:
+Issue A (sensor input working) -> Issue B (data mapping) -> Issue C (interactive output) -> [MILESTONE] Prototype v0
 
-3. **[MILESTONE] Functional System**
-   - Core functionality implemented and stable
+## Timeline Quality Check
+Before submitting, verify:
+1. Milestones are distributed across the remaining semester (not clustered at the end).
+2. Dependencies reflect real sequencing constraints.
+3. Earliest issues unlock later integration work.
+4. Timeline shows coherent system progression.
 
-4. **[MILESTONE] Pre-Final Integration**
-   - System integrated, tested, and mostly complete
-   - Presentation and documentation in progress
+## Deliverables (Required)
+Submit one GitHub issue titled:
+Assignment 08 Submission: Timeline and Issue Tracking
 
-5. **[MILESTONE] Final Presentation**
-   - Working PoC
-   - Completed presentation (slides + narrative)
-   - Complete repository and documentation
+Include the following in the issue body:
+1. Repository link.
+2. Project board link (Roadmap view).
+3. Evidence checklist:
+   - Start Date and Target Date fields created
+   - Dates assigned to active issues
+   - Dependencies enabled and used
+   - All 5 required milestones created and labeled
+   - Additional project-specific milestones added where needed
+   - Milestones connected to supporting issues
+4. Reflection (150-250 words) answering:
+   - What is the first issue that must be completed for your system to function?
+   - Which dependencies most strongly shape your timeline?
+   - What failure chain occurs if your first critical issue is delayed?
 
----
-
-### Weekly Development Work
-
-Using your existing issues:
-
-### 1. Assign Time to Issues
-
-- Add Start and Target dates to all active issues
-- Ensure dates are realistic and distributed across time
-
----
-
-### 2. Define Dependencies
-
-- Identify which issues must happen before others
-- Add dependency relationships between issues
-
----
-
-### 3. Connect Issues to Milestones
-
-- Determine which issues contribute to each milestone
-- Ensure all milestones are supported by relevant issues
-
----
-
-### 4. Review Timeline
-
-Examine your roadmap and evaluate:
-
-- Are issues aligned with milestones?
-- Are dependencies reflected in sequencing?
-- Does the timeline represent a coherent development process?
-
----
-
-### 5. Refine System
-
-Adjust:
-
-- Dates
-- Issue scope
-- Dependencies
-- Milestone definitions
-
-Until your timeline reflects a clear system progression
-
----
-
-Using your existing issues:
-
-### 1. Assign Time to Issues
-
-- Add Start and Target dates to all active issues
-- Ensure dates are realistic and distributed across time
-
----
-
-### 2. Define Dependencies
-
-- Identify which issues must happen before others
-- Add dependency relationships between issues
-
----
-
-### 3. Review Timeline
-
-Examine your roadmap and evaluate:
-
-- Are issues overlapping appropriately?
-- Are dependencies reflected in sequencing?
-- Does the timeline make sense as a development process?
-
----
-
-### 4. Adjust as Needed
-
-Refine:
-
-- Dates
-- Issue scope
-- Dependencies
-
-Until your timeline reflects a coherent development plan
-
----
-
-## Deliverables
-
-Submit the following:
-
-### 1. Project Link
-- GitHub repository
-- GitHub project board (Roadmap view visible)
-
----
-
-### 2. Short Reflection (150–250 words)
-
-Respond to the following:
-
-- What is the first issue that must be completed for your system to function?
-- What dependencies most strongly shape your timeline?
-- What would break if your earliest issue is delayed?
-
----
-
-## Evaluation Criteria
-
-- Correct setup of timeline fields and roadmap
-- Meaningful assignment of dates
-- Clear and logical dependencies
-- Evidence of system-level thinking
-
----
+## Grading Rubric (100 points)
+1. Roadmap and field setup correctness: 20
+2. Date quality and timeline realism: 20
+3. Dependency logic and sequencing: 20
+4. Milestone quality and issue linkage: 25
+5. Reflection depth and system-level reasoning: 15
 
 ## Key Principle
-
-> A timeline is not a schedule of tasks.
->
-> It is a representation of how your system comes into existence over time.
-
----
-
-## Notes
-
-- Dates should reflect realistic work periods
-- Dependencies should reflect actual system requirements
-- Avoid arbitrary or evenly spaced timelines
-
----
+A timeline is not just a schedule of tasks. It is a representation of system emergence over time.
 
 ## Looking Ahead
-
-This timeline will be used in the next phase to:
-
-- Define milestones
-- Evaluate system readiness
-- Coordinate final project development
+This timeline will be used in subsequent assignments to evaluate system readiness, coordinate integration, and plan final presentation work.
 
