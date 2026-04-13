@@ -14,6 +14,9 @@ By the end of this assignment, you will configure a GitHub Project roadmap with 
 4. Five required milestone issues plus any project-specific milestones you need, each connected to supporting work.
 5. A short written reflection on timeline risk and sequencing logic.
 
+## Resource Readings  
+1. [GitHub Issues Documentation](https://docs.github.com/en/issues)  
+
 ## Part 1 - Configure Timeline in GitHub Projects
 
 ### Step 1 - Add Date Fields
