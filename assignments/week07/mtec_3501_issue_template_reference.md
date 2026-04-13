@@ -18,6 +18,7 @@ Each Issue must clearly define:
 
 ## Required Components
 
+
 ### 1. Issue Title (GitHub Field)
 
 - Must be written as **verb–object**
@@ -33,6 +34,7 @@ Each Issue must clearly define:
 ### 2. Description (What + Why)
 
 The description must explain:
+- What is currently a problem and needs to be fixed.
 - What is being done
 - Why it matters to the system
 
@@ -49,11 +51,12 @@ Categorize the work using one of the following:
 
 - Research
 - Design
-- Prototype
+- Make
 - Integration
 - Testing
 - Documentation
 - Presentation
+- assessment
 
 ---
 
