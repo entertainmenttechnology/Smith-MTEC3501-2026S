@@ -1,3 +1,11 @@
+The Enigma Recreation Project is as the name suggests a project focused on the recreation of the Enigma Machine used and cracked during world war II.
+I plan to rebuild the engima machine using modern manufacturing techniques including 3d printing. 
+I also plan on designing an interactive museum display around the project.   
+
+
+
+
+
 **Biblography**
 
 Crypto Museum. (n.d.). Retrieved February 23, 2026, from https://www.cryptomuseum.com/index.htm
