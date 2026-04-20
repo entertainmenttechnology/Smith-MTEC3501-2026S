@@ -10,6 +10,9 @@ MTEC 3501 guides students through the research, proposal, and planning stages to
 
 ---
 ### CURRENT ASSIGNMENT: 
+Make sure that you develop a timeline that includes the creation or modificaiton of teh final deliverables.  This list can be found [here](
+Make sure that you develop a timeline that includes the creation or modificaiton of teh final deliverables.  This list can be found [here](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md)  
+
 Week 7 (2026-03-16)
 
 #### From Feedback to Execution (GitHub System)
