@@ -41,6 +41,19 @@ Each week builds toward your **end-of-semester prototype (Proof of Concept)** an
 
 ---
 
+## Week 6 Files
+
+- [Week 6 Assignment: Research Structuring & Practice Presentation](week06/06_assignment_zotero_tagging_trial_presentation.md)
+
+---
+
+## Week 5 Files
+
+- [Week 5 Assignment: Research Consolidation + Specificity + Miracle Questions](week05/05_assignment_research_specificity_miracle.md)
+- [Week 5 Supporting Document: Research Areas, Specificity, and Miracle Questions](week05/05_document_research_specificity_miracle.md)
+
+---
+
 📣 *Assignments are cumulative: each week advances your project from initial speculation to a working prototype, culminating in juried presentations.*  
 
 
