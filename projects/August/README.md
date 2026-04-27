@@ -3,6 +3,18 @@ I plan to rebuild the engima machine using modern manufacturing techniques inclu
 I also plan on designing an interactive museum display around the project.   
 
 
+What is the Enigma Machine?
+
+History
+
+
+Mechanics
+The mechanics behind the enigma machine consist of five main parts
+1. The Rotors: Each Rotor on the enigma machine spins at a diffrent rate. they have 26 wire connections on each side and they work together to scramble the incoming message.
+
+   <img width="996" height="281" alt="image" src="https://github.com/user-attachments/assets/a649403b-1044-4be6-b47c-fa3fa172141f" />
+    Crypto Museum Rotor Diagram
+2. The keyboard: This is where each key is inputted on the enigma machine.
 
 
 
