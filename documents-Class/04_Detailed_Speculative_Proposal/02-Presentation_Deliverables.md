@@ -14,14 +14,14 @@ Students must submit the following **before** their March 16 presentation.
 
 | **Category** | **Deliverable** | **Description** | **Submission Format** |
 | ------------- | --------------- | ---------------- | ------------------ |
-| **Oral Presentation (Main Deliverable)** | **10-minute project pitch** | A structured verbal presentation covering project scope, feasibility, research, milestones, and what the end-of-semester PoC will be. | **Live panel presentation (March 16, in-person)** |
+| **Oral Presentation (Main Deliverable)** | **10-minute project pitch** | A structured verbal presentation covering project scope, feasibility, research, milestones, and what the next semester LVP will be. | **Live panel presentation (Last Class, in-person)** |
 | **Research & Precedents** | **Annotated Research Bibliography** | List of relevant research, inspirations, and technical references, stored in **Zotero** and linked in the proposal. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Research" folder)** |
-| **Written Proposal** | **Refined Speculative Proposal (Climax + PoC Plan)** | The core document outlining the full vision (**Climax**) and what the PoC will be. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Proposal" folder)** |
-| **Project Planning** | **Milestone & Issue Tracking in GitHub** | A structured breakdown of the project into **at least 3 milestones** and **5 GitHub issues** tied to phases. | **GitHub Project Board (Milestones & Issues tab)** |
-| **Presentation Slides** | **Google Slides or PDF Deck** | A concise, **visually structured presentation**, with examples and research references. | **Google Drive (in "Panel-1-Deliverables" folder), linked in GitHub Issue** |
-| **Prototype Plan (LVP Plan)** | **Description of the LVP (build next semester)** | A document explaining **what the PoC will be, its key functions, and what needs to be built first**. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Prototype-Planning" folder)** |
-| **AI Usage Report** | **Brief summary of AI tools used** | A short write-up on any **AI tools** used in research, design, or planning, describing **how AI was used** and its impact. | **GitHub (Markdown file in each student's "Projects/[StudentName]/AI-Usage" folder)** |
-| **Self-Assessment & Feedback Reflection** | **Project Feasibility Summary** | A **300-500 word write-up** summarizing **project feasibility, challenges, and areas needing feedback**. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Reflections" folder)** |
+| **Written Proposal** | **Refined Speculative Proposal (Climax + PoC + LVP Plan)** | The core document outlining the full vision (**Climax**) and what the PoC will be. | **GitHub (Markdown file in each student's "Projects/[StudentName]/Proposal" folder)** |
+| **Project Planning** | **Milestone & Issue Tracking in GitHub** | A structured breakdown of the project into **major milestones and detailed issues** tied to phases. | **GitHub Project Board (Milestones & Issues tab)** |
+| **Presentation Slides** | **Google Slides or PDF Deck** | A concise, **visually structured presentation**, with examples and research references. | **publically accessable URL or pdf in the GitHub site)**|
+| **Prototype Plan (LVP Plan)** | **Description of the LVP (build next semester)** | A document explaining **what the PoC will be, its key functions, and what needs to be built first**. | **GitHub (Markdown file in each student's "Projects/[StudentName] folder)** |
+| **AI Usage Report** | **Brief summary of AI tools used** | A short write-up on any **AI tools** used in research, design, or planning, describing **how AI was used** and its impact. | **GitHub (Markdown file in each student's "Projects/[StudentName]" folder)** |
+| **Self-Assessment & Feedback Reflection** | **Project Feasibility Summary** | A **300-500 word write-up** summarizing **project feasibility, challenges, and areas needing feedback**. | **GitHub (Markdown file in each student's "Projects/[StudentName]" folder)** |
 
 ---
 
