@@ -1,12 +1,35 @@
+Complete all required fields, including:
+
+    One-Sentence Summary
+    Core Concept
+    User Experience
+    Climax Version (Fully Realized Vision)
+    Least Viable Product (For Culmination Project)
+    Technology & Systems
+    Creative Components
+    Expected Impact
+    Prototype Plan
+    What It Can Do vs. What It Won’t Do (Yet)
+    Scalability Plan
+    Research & Influences
+    Learning Areas
+    Self-Reflection & Open Questions
+    AI Usage Report
+    Feedback Needed
+
+
+
+
 ### The Enigma Recreation Project
+
 
 #### Project Lead: 
 August Snyder
 
+#### Table of Contents
 
-### Project Overview:
-This Project is focused around the creation of an enigma machine based on the original engima machine used during WW2. Along with the creation of the enimga machine I will design an interactive museam display to encase the enigma machine and its history.
 
+### Introduction:
 
 ### Objectives:
 1. Build a functional enigma machine
@@ -17,8 +40,12 @@ This Project is focused around the creation of an enigma machine based on the or
 ### Skills Required:
 - Computer Aided Design (CAD)
 - Vector Drawing
+- 3D fabrication
 - Soldering
 - Assembly
+- Design
+- Project Managment 
+
 
 
 ### Equipment and Materials List:
@@ -43,8 +70,13 @@ This Project is focused around the creation of an enigma machine based on the or
 - Enigma Machine History
 
 ### Timeline:
+- First Presentation
+- 3D Modeling (Summer)
+- Museum Layout ()
+- Final Deliverables 
 
-
+### Project Overview:
+This Project is focused around the creation of an enigma machine based on the original engima machine used during WW2. Along with the creation of the Enimga machine I will design an interactive museam display to encase the Enigma machine and its history.
 
 
 (Outline Inspired by Juliann Campbell at CHI)
