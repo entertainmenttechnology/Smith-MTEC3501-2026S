@@ -10,6 +10,13 @@ MTEC 3501 guides students through the research, proposal, and planning stages to
 
 ---
 ### CURRENT ASSIGNMENT: 
+This is a link to the Feedback Form for the final evaluation.  PLease use this in the 05-11 dry run to evaluate your fellow students.  
+
+[Link to the Form](https://docs.google.com/forms/d/e/1FAIpQLScGV15HjbgxWxnmxbMuDjW_zWJcdiehEmNwq5EccaMqycSygA/viewform?usp=publish-editor)
+
+
+### Prior ASSIGNMENTs: 
+
 Make sure that you develop a timeline that includes the creation or modificaiton of teh final deliverables.  This list can be found [here](
 Make sure that you develop a timeline that includes the creation or modificaiton of teh final deliverables.  This list can be found [here](https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/blob/main/documents-Class/04_Detailed_Speculative_Proposal/02-Presentation_Deliverables.md)  
 
