@@ -6,6 +6,10 @@
 
 [Construct3 Documentation](https://www.construct.net/en/make-games/manuals/construct-3)
 
+[Written Proposal](https://docs.google.com/document/d/1V4FFjvglsfBdRpROl-cilKejAG56ckGBjiU8FDs_K1A/edit?usp=sharing)
+
+[Prototype Proposal](https://docs.google.com/document/d/12EcFiRon35M5Hvq6A6n_2N0OQlOxZ98p3842XWw3rQE/edit?usp=sharing)
+
 [Feedback report on Action Spirit](https://docs.google.com/document/d/1WmkuJk23FGSqdP0eJ-MQdxjCn8jUGIpbfLTALJcmHjE/edit?usp=sharing)
 
 
