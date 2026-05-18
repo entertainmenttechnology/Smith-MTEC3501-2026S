@@ -1,30 +1,8 @@
-\# One-Sentence Summary
+One-Sentence Summary
 
 
 
-“Utilizing Emerging Technology Within Theatrical Settings” is a TED-style multimedia presentation exploring how emerging computational technologies such as projection mapping, computer vision, virtual production, and real-time media systems can fundamentally transform theatrical space into a responsive and immersive artistic medium.
-
-
-
-\---
-
-
-
-\# Core Concept
-
-
-
-The core concept of this project is that theater has always been technological, but contemporary theater has not yet fully absorbed emerging computational technologies as artistic disciplines in their own right. Drawing from the concept of \*Gesamtkunstwerk\* (“total work of art”), the presentation argues that modern theater can no longer truly be considered a unified artistic system if technologies such as real-time rendering, interactive media, virtual production, and computer vision remain disconnected from theatrical authorship and production pipelines.
-
-
-
-The project functions as both:
-
-
-
-\* a research presentation,
-
-\* and a performative demonstration of computational theater itself.
+“Utilizing Emerging Technology Within Theatrical Settings” is a TED-style multimedia presentation exploring how emerging technologies can transform theater into a responsive, immersive, and computational artistic medium.
 
 
 
@@ -32,45 +10,11 @@ The project functions as both:
 
 
 
-\# User Experience
+Core Concept
 
 
 
-Audience members experience the project as a hybrid between:
-
-
-
-\* a TED Talk,
-
-\* a theatrical lecture-performance,
-
-\* a systems demonstration,
-
-\* and a multimedia installation.
-
-
-
-The presentation combines:
-
-
-
-\* cinematic slides,
-
-\* projection mapping,
-
-\* live demonstrations,
-
-\* interactive media systems,
-
-\* diagrams,
-
-\* livestreamed performance,
-
-\* and speculative theatrical design concepts.
-
-
-
-Rather than functioning as a static slideshow, the presentation itself becomes a responsive multimedia environment controlled through \[TouchDesigner](https://derivative.ca/?utm\_source=chatgpt.com) and related creative technologies.
+This project argues that theater has always been technological, but modern theater has not yet fully absorbed emerging technologies such as real-time rendering, computer vision, and interactive media as artistic disciplines in their own right. Using the concept of Gesamtkunstwerk (“total work of art”), the presentation explores what theater could become when computation is treated as part of the artistic language.
 
 
 
@@ -78,43 +22,11 @@ Rather than functioning as a static slideshow, the presentation itself becomes a
 
 
 
-\# Climax Version (Fully Realized Vision)
+User Experience
 
 
 
-The fully realized version of this project would function as a live computational theater environment within a black box theatrical space.
-
-
-
-The audience would enter an immersive reactive environment featuring:
-
-
-
-\* projection-mapped architecture,
-
-\* real-time rendered environments,
-
-\* interactive lighting,
-
-\* computer vision tracking,
-
-\* spatialized audio,
-
-\* responsive stage systems,
-
-\* and networked multimedia control.
-
-
-
-Performers and audience members would directly influence media, lighting, and environmental effects through movement and interaction. The space itself would behave as a living computational system.
-
-
-
-The final version would effectively operate as:
-
-
-
-> a theatrical operating system.
+The audience experiences the project as a hybrid between a TED Talk, theatrical lecture-performance, and multimedia installation featuring cinematic slides, live demonstrations, projection-based visuals, and interactive media systems.
 
 
 
@@ -122,55 +34,11 @@ The final version would effectively operate as:
 
 
 
-\# Least Viable Product (For Culmination Project)
+Climax Version (Fully Realized Vision)
 
 
 
-The culmination project version focuses on creating a highly polished TED-style presentation supported by working multimedia demonstrations.
-
-
-
-The MVP includes:
-
-
-
-\* a completed cinematic slide deck,
-
-\* TouchDesigner-based show control,
-
-\* projection-based visuals,
-
-\* technical diagrams,
-
-\* demonstration sequences,
-
-\* and research-supported arguments.
-
-
-
-Planned demonstrations include:
-
-
-
-1\. \*A Life: Frame by Frame\*
-
-2\. \*The Walking Shot\*
-
-3\. \*Virtual Black Box\*
-
-
-
-The MVP prioritizes:
-
-
-
-\* clarity of concept,
-
-\* visual presentation,
-
-\* proof-of-concept demonstrations,
-
-\* and strong theoretical framing over large-scale installation complexity.
+The full version would function as an immersive computational theater environment featuring responsive projections, body tracking, real-time media systems, spatial audio, and interactive stage environments controlled through networked technologies.
 
 
 
@@ -178,65 +46,63 @@ The MVP prioritizes:
 
 
 
-\# Technology \& Systems
+Least Viable Product (For Culmination Project)
 
 
 
-\## Software
+The MVP is a polished TED-style presentation with cinematic visuals, TouchDesigner-controlled media, technical diagrams, and several proof-of-concept demonstrations including livestreaming, projection mapping, and virtual black box concepts.
 
 
 
-\* \[TouchDesigner](https://derivative.ca/?utm\_source=chatgpt.com)
+\---
 
-\* \[Unreal Engine](https://www.unrealengine.com/?utm\_source=chatgpt.com)
 
-\* \[OpenCV](https://opencv.org/?utm\_source=chatgpt.com)
+
+Technology \& Systems
+
+
+
+Software:
+
+
+
+\* TouchDesigner
+
+\* Unreal Engine
+
+\* OpenCV
 
 \* MadMapper
 
-\* OBS
-
-\* Adobe Premiere Pro
-
-\* Adobe After Effects
-
-\* Blender
+\* Adobe Creative Suite
 
 
 
-\## Systems / Protocols
+Hardware:
 
 
 
-\* OSC
+\* Computer
 
-\* DMX
+\* Projector
 
-\* Art-Net
-
-\* MIDI
-
-\* SMPTE Timecode
-
-\* NDI
-
-
-
-\## Hardware
-
-
-
-\* High-performance computer
-
-\* Projector / LED display
+\* Camera/Kinect
 
 \* Audio system
 
-\* Webcam / Kinect camera
-
 \* Lighting fixtures
 
-\* Networking infrastructure
+
+
+\---
+
+
+
+Creative Components
+
+
+
+The project combines theater theory, motion graphics, immersive media, projection design, systems thinking, and speculative worldbuilding.
 
 
 
@@ -244,47 +110,11 @@ The MVP prioritizes:
 
 
 
-\# Creative Components
+Expected Impact
 
 
 
-The project combines:
-
-
-
-\* theatrical theory,
-
-\* systems design,
-
-\* motion graphics,
-
-\* projection design,
-
-\* immersive media,
-
-\* interaction design,
-
-\* live performance,
-
-\* and speculative worldbuilding.
-
-
-
-A major creative focus is presenting technical systems in an emotionally and artistically compelling way rather than purely as engineering tools.
-
-
-
-The presentation aesthetic draws heavily from:
-
-
-
-\* immersive theater,
-
-\* cybernetic architecture,
-
-\* contemporary stage design,
-
-\* and speculative media art.
+The project aims to encourage collaboration between theater and technology while making emerging creative technologies feel more accessible and artistically meaningful.
 
 
 
@@ -292,25 +122,19 @@ The presentation aesthetic draws heavily from:
 
 
 
-\# Expected Impact
+Prototype Plan
 
 
 
-The project aims to:
+1\. Build slide deck
 
+2\. Create TouchDesigner control system
 
+3\. Develop demonstrations
 
-\* encourage interdisciplinary collaboration between theater and technology,
+4\. Test technical setup
 
-\* make creative technologies feel more accessible to artists,
-
-\* advocate for computational literacy within theatrical education,
-
-\* and frame emerging technologies as legitimate artistic mediums rather than auxiliary tools.
-
-
-
-The project also explores what future theatrical pipelines may look like as creative technology becomes increasingly integrated into live performance.
+5\. Present final experience
 
 
 
@@ -318,55 +142,31 @@ The project also explores what future theatrical pipelines may look like as crea
 
 
 
-\# Prototype Plan
+What It Can Do vs. What It Won’t Do (Yet)
 
 
 
-\## Phase 1
+Can Do:
 
 
 
-\* Complete research and slide development
+\* Demonstrate computational theater concepts
 
-\* Develop visual identity
+\* Showcase interactive media systems
 
-\* Build presentation structure
-
-
-
-\## Phase 2
+\* Present immersive workflows
 
 
 
-\* Create TouchDesigner control system
-
-\* Build demonstration patches
-
-\* Develop media assets and visuals
+Won’t Do Yet:
 
 
 
-\## Phase 3
+\* Fully autonomous stage systems
 
+\* Large-scale audience interaction
 
-
-\* Test projections and playback
-
-\* Integrate livestream demonstration
-
-\* Refine pacing and transitions
-
-
-
-\## Phase 4
-
-
-
-\* Rehearse presentation
-
-\* Finalize technical setup
-
-\* Deliver culmination presentation
+\* Commercial-ready deployment
 
 
 
@@ -374,43 +174,11 @@ The project also explores what future theatrical pipelines may look like as crea
 
 
 
-\# What It Can Do vs. What It Won’t Do (Yet)
+Scalability Plan
 
 
 
-\## What It Can Do
-
-
-
-\* Demonstrate computational theatrical concepts
-
-\* Showcase real-time multimedia systems
-
-\* Present interactive and immersive workflows
-
-\* Function as a proof-of-concept computational performance
-
-\* Visualize future theatrical pipelines
-
-
-
-\## What It Won’t Do (Yet)
-
-
-
-\* Operate as a fully autonomous intelligent stage
-
-\* Support large-scale audience interactivity
-
-\* Replace traditional theatrical infrastructure
-
-\* Fully integrate all systems into one seamless pipeline
-
-\* Function as a commercial-ready theatrical platform
-
-
-
-The project is exploratory and speculative rather than industrially complete.
+Future versions could expand into immersive installations, XR performance, responsive environments, and large-scale multimedia theater productions.
 
 
 
@@ -418,61 +186,15 @@ The project is exploratory and speculative rather than industrially complete.
 
 
 
-\# Scalability Plan
+Research \& Influences
 
 
 
-Future versions of the project could expand into:
+Influences include:
 
 
 
-\* full immersive installations,
-
-\* live XR performance,
-
-\* interactive exhibitions,
-
-\* museum installations,
-
-\* educational workshops,
-
-\* or collaborative theatrical productions.
-
-
-
-The systems explored within this project are intentionally modular and scalable.
-
-
-
-Future development may include:
-
-
-
-\* AI-assisted performance systems,
-
-\* advanced spatial computing,
-
-\* real-time motion capture,
-
-\* procedural storytelling,
-
-\* and audience-responsive environments.
-
-
-
-\---
-
-
-
-\# Research \& Influences
-
-
-
-Major influences include:
-
-
-
-\* Richard Wagner and the theory of \*Gesamtkunstwerk\*
+\* Richard Wagner
 
 \* Es Devlin
 
@@ -480,35 +202,11 @@ Major influences include:
 
 \* Complicité
 
-\* 1927
+\* Projection mapping
 
-\* immersive theater practices
+\* Virtual production
 
-\* virtual production workflows
-
-\* TouchDesigner community projects
-
-\* projection mapping installations
-
-\* interactive media art
-
-\* cybernetic systems theory
-
-
-
-The project also draws influence from:
-
-
-
-\* game engines,
-
-\* VFX pipelines,
-
-\* installation art,
-
-\* systems design,
-
-\* and contemporary media architecture.
+\* Interactive media art
 
 
 
@@ -516,33 +214,21 @@ The project also draws influence from:
 
 
 
-\# Learning Areas
+Learning Areas
 
 
 
-This project requires further learning in:
+\* Advanced TouchDesigner workflows
 
+\* Projection mapping
 
-
-\* advanced TouchDesigner workflows
-
-\* networking protocols
-
-\* projection mapping systems
+\* Networking systems
 
 \* Unreal Engine integration
 
-\* real-time rendering pipelines
+\* Computer vision
 
-\* computer vision systems
-
-\* show control systems
-
-\* immersive installation design
-
-\* systems interoperability
-
-\* computational dramaturgy
+\* Show control systems
 
 
 
@@ -550,45 +236,13 @@ This project requires further learning in:
 
 
 
-\# Self-Reflection \& Open Questions
+Self-Reflection \& Open Questions
 
 
 
-This project reflects my ongoing interest in the intersection between:
+This project explores the relationship between storytelling, theater, and computation while asking:
 
-
-
-\* storytelling,
-
-\* theater,
-
-\* spatial design,
-
-\* and emerging technology.
-
-
-
-A major question driving this work is:
-
-
-
-> What happens when computation itself becomes theatrical material?
-
-
-
-Additional open questions include:
-
-
-
-\* How accessible can these systems become for artists?
-
-\* Can computational systems become emotionally expressive?
-
-\* What does authorship look like within responsive environments?
-
-\* How do we standardize these workflows without losing experimentation?
-
-\* What responsibilities do artists have when designing immersive technological systems?
+“What happens when computation itself becomes theatrical material?”
 
 
 
@@ -596,29 +250,11 @@ Additional open questions include:
 
 
 
-\# AI Usage Report
+AI Usage Report
 
 
 
-ChatGPT 4.0 and Claude OPUS were used primarily for:
-
-
-
-\* organizing ideas,
-
-\* refining outlines,
-
-\* summarizing research,
-
-\* drafting written documentation,
-
-\* brainstorming structure,
-
-\* and polishing presentation language.
-
-
-
-AI was not used to replace core creative development, technical experimentation, research direction, or conceptual authorship. The project’s central ideas, demonstrations, visual direction, technical planning, and overall thesis were independently developed through research, prototyping, and artistic practice.
+AI tools such as ChatGPT and Claude were used for outlining, organizing ideas, summarizing research, and refining written documentation. Core creative development and technical planning were completed independently.
 
 
 
@@ -626,39 +262,25 @@ AI was not used to replace core creative development, technical experimentation,
 
 
 
-\# Feedback Needed
+Feedback Needed
 
 
 
-Areas where feedback would be especially valuable include:
+Feedback is needed on:
 
 
 
-\* clarity of thesis,
+\* thesis clarity
 
-\* pacing of the presentation,
+\* technical feasibility
 
-\* technical feasibility,
+\* pacing
 
-\* effectiveness of demonstrations,
+\* scope
 
-\* visual cohesion,
+\* visual cohesion
 
-\* balance between theory and practice,
-
-\* and whether the presentation successfully communicates its speculative vision without becoming overly abstract.
-
-
-
-Additional feedback is also needed regarding:
-
-
-
-\* scope management,
-
-\* technical simplification,
-
-\* and what elements should be prioritized for the culmination presentation.
+\* effectiveness of demonstrations
 
 
 
