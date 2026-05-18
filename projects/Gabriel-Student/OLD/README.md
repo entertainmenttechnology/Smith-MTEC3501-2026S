@@ -19,3 +19,6 @@ https://www.canva.com/design/DAHDdi_LrIw/dkwj1N-gjnr21NrIl2AZTQ/edit?utm_content
 
 Midterm Feedback Analysis:
 https://docs.google.com/document/d/1EZqtX8fP43BVDMY1bFKCcIULM8QNnG68BP1P6_MR1_g/edit?usp=sharing
+
+Project Outline:
+https://docs.google.com/document/d/10nqVNMztoELC4ymp8w-okWE-ilbK8A28Fq0mSveTJTw/edit?usp=sharing
