@@ -1,7 +1,8 @@
 name: Project Task
 description: Create a structured task for your project execution system.
+title: "[Task] "
 labels: ["task"]
-assignees: ["@me"]
+assignees: []
 
 body:
 
@@ -23,11 +24,14 @@ body:
       label: Task Type
       description: Select the operational category of this task.
       options:
-        - Design
-        - Prototype
         - Research
+        - Design
+        - Make
         - Integration
+        - Testing
         - Documentation
+        - Presentation
+        - Assessment
     validations:
       required: true
 

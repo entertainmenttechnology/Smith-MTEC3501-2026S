@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Course Questions / Logistics
+    url: https://github.com/entertainmenttechnology/Smith-MTEC3501-2026S/discussions
+    about: Use Discussions for general class questions instead of creating issues.
